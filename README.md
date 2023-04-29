@@ -3,6 +3,8 @@
 基礎
 -------------
 
+|No.|Title|
+|:--|--:|
 |tutorial00.|<a href="tutorial/tutorial00_networkx.ipynb">ネットワークX</a>|
 |tutorial01.|<a href="tutorial/tutorial01_qubo.ipynb">QUBOとアニーリング</a>|
 |tutorial02.|<a href="tutorial/tutorial02_maxcut.ipynb">マックスカット問題</a>|
@@ -20,5 +22,7 @@
 応用
 -------------
 
+|No.|Title|
+|:--|--:|
 |tutorial20.|<a href="tutorial/tutorial20_巡回セールスマン問題.ipynb">巡回セールスマン問題</a>|
 |tutorial21.|<a href="tutorial/tutorial21_お絵かきロジック.ipynb">お絵描きロジック</a>|
