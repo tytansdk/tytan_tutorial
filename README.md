@@ -16,8 +16,6 @@
 |tutorial08.|<a href="tutorial/tutorial08_clustering_vertex_cover.ipynb">クラスタリング・頂点被覆</a>|
 |tutorial09.|<a href="tutorial/tutorial09_trafficflow_optimization.ipynb">交通最適化問題</a>|
 |tutorial10.|<a href="tutorial/tutorial10_liner_reg.ipynb">イジング線形回帰</a>|
-|tutorial11.|<a href="tutorial/tutorial11_matrix_factrization.ipynb">行列因子分解</a>|
-|tutorial12.|<a href="tutorial/tutorial12_qboost.ipynb">QBoost</a>|
 
 応用
 -------------
