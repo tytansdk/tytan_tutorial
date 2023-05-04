@@ -26,3 +26,5 @@
 |tutorial21.|<a href="tutorial/tutorial21_お絵かきロジック.ipynb">お絵描きロジック（難度★★★☆☆）</a>|
 |tutorial22.|<a href="tutorial/tutorial22_最大カット問題の言い換え.ipynb">最大カット問題の言い換え（難度★☆☆☆☆）</a>|
 |tutorial23.|<a href="tutorial/tutorial23_橋をかけろ.ipynb">橋をかけろ（難度★★☆☆☆）</a>|
+|tutorial24.|<a href="tutorial/tutorial24_美術館.ipynb">美術館（難度★★★★☆）</a>|
+|tutorial25.|<a href="tutorial/tutorial25_温度計.ipynb">温度計（難度★★★☆☆）</a>|
