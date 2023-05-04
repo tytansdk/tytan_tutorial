@@ -22,7 +22,7 @@
 
 |No.|Title|
 |:--|--:|
-|tutorial20.|<a href="tutorial/tutorial20_巡回セールスマン問題.ipynb">巡回セールスマン問題</a>|
-|tutorial21.|<a href="tutorial/tutorial21_お絵かきロジック.ipynb">お絵描きロジック</a>|
-|tutorial22.|<a href="tutorial/tutorial22_最大カット問題の言い換え.ipynb">最大カット問題の言い換え</a>|
-|tutorial23.|<a href="tutorial/tutorial23_橋をかけろ.ipynb">橋をかけろ</a>|
+|tutorial20.|<a href="tutorial/tutorial20_巡回セールスマン問題.ipynb">巡回セールスマン問題（難度★★★★☆）</a>|
+|tutorial21.|<a href="tutorial/tutorial21_お絵かきロジック.ipynb">お絵描きロジック（難度★★★☆☆）</a>|
+|tutorial22.|<a href="tutorial/tutorial22_最大カット問題の言い換え.ipynb">最大カット問題の言い換え（難度★☆☆☆☆）</a>|
+|tutorial23.|<a href="tutorial/tutorial23_橋をかけろ.ipynb">橋をかけろ（難度★★☆☆☆）</a>|
