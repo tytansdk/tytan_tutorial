@@ -29,3 +29,4 @@
 |tutorial24.|<a href="tutorial/tutorial24_美術館.ipynb">美術館</a>|★★★★☆|
 |tutorial25.|<a href="tutorial/tutorial25_温度計.ipynb">温度計</a>|★★★☆☆|
 |tutorial26.|<a href="tutorial/tutorial26_カクラス.ipynb">カクラス</a>|★★★★☆|
+|tutorial27.|<a href="tutorial/tutorial27_連立方程式を解く.ipynb">連立方程式を解く</a>|★★★★☆|
