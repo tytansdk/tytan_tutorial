@@ -30,10 +30,11 @@
 |tutorial25.|<a href="tutorial/tutorial25_温度計.ipynb">温度計</a>|★★☆☆☆|
 |tutorial26.|<a href="tutorial/tutorial26_カクラス.ipynb">カクラス</a>|★★★☆☆|
 |tutorial27.|<a href="tutorial/tutorial27_連立方程式を解く.ipynb">連立方程式を解く</a>|★★★★☆|
-|tutorial28.|<a href="tutorial/tutorial28_ナンプレ＆不等号ナンプレ.ipynb">ナンプレ＆不等号ナンプレく</a>|★★★★☆|
+|tutorial28.|<a href="tutorial/tutorial28_ナンプレ＆不等号ナンプレ.ipynb">ナンプレ＆不等号ナンプレ</a>|★★★★☆|
+|tutorial29.|<a href="tutorial/tutorial29_ドミノサ.ipynb">ドミノサ</a>|★★☆☆☆|
 
 ★☆☆☆☆　1種類の条件式を使う<br>
-★★☆☆☆　2種類以上の条件式を使う<br>
+★★☆☆☆　2種類以上の条件式を使う、もしくはそれに相当する難しさ<br>
 ★★★☆☆　重みに差をつける<br>
 ★★★★☆　応用的な条件式や発想が求められる<br>
 ★★★★★　2種類以上の応用的な条件式を使う、もしくはそれに相当する難しさ（予定）<br>
