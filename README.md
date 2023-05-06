@@ -26,8 +26,8 @@
 |tutorial21.|<a href="tutorial/tutorial21_お絵かきロジック.ipynb">お絵描きロジック</a>|★★★☆☆|
 |tutorial22.|<a href="tutorial/tutorial22_最大カット問題の言い換え.ipynb">最大カット問題の言い換え</a>|★☆☆☆☆|
 |tutorial23.|<a href="tutorial/tutorial23_橋をかけろ.ipynb">橋をかけろ</a>|★★☆☆☆|
-|tutorial24.|<a href="tutorial/tutorial24_美術館.ipynb">美術館</a>|★★★☆☆|
-|tutorial25.|<a href="tutorial/tutorial25_温度計.ipynb">温度計</a>|★★★☆☆|
-|tutorial26.|<a href="tutorial/tutorial26_カクラス.ipynb">カクラス</a>|★★★★☆|
+|tutorial24.|<a href="tutorial/tutorial24_美術館.ipynb">美術館</a>|★★☆☆☆|
+|tutorial25.|<a href="tutorial/tutorial25_温度計.ipynb">温度計</a>|★★☆☆☆|
+|tutorial26.|<a href="tutorial/tutorial26_カクラス.ipynb">カクラス</a>|★★★☆☆|
 |tutorial27.|<a href="tutorial/tutorial27_連立方程式を解く.ipynb">連立方程式を解く</a>|★★★★☆|
 |tutorial28.|<a href="tutorial/tutorial28_ナンプレ＆不等号ナンプレ.ipynb">ナンプレ＆不等号ナンプレく</a>|★★★★☆|
