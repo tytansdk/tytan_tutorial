@@ -17,7 +17,7 @@
 |tutorial09.|<a href="tutorial/tutorial09_trafficflow_optimization.ipynb">交通最適化問題</a>|
 |tutorial10.|<a href="tutorial/tutorial10_liner_reg.ipynb">イジング線形回帰</a>|
 
-応用（数式少なめ）
+応用（パズル問題が多い）
 -------------
 
 |No.|Title|難度|
