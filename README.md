@@ -34,6 +34,8 @@
 |tutorial29.|<a href="tutorial/tutorial29_ドミノサ.ipynb">ドミノサ</a>|★★☆☆☆||
 |tutorial30.|<a href="tutorial/tutorial30_犯人は誰だ？.ipynb">犯人は誰だ？</a>|★★☆☆☆||
 |tutorial31.|<a href="tutorial/tutorial31_数字を均等に2組に分ける.ipynb">数字を均等に2組に分ける</a>|★★★☆☆|2023/5/24|
+|tutorial32.|<a href="tutorial/tutorial32_シフト最適化.ipynb">シフト最適化</a>|★☆☆☆☆||
+|tutorial33.|<a href="tutorial/tutorial33_ナップサック問題.ipynb">ナップサック問題</a>|★★★★★||
 
 ★☆☆☆☆　1種類の条件式を使う<br>
 ★★☆☆☆　2種類以上の条件式を使う、もしくはそれに相当する難しさ<br>
