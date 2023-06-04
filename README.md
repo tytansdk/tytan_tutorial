@@ -37,6 +37,7 @@
 |tutorial32.|<a href="tutorial/tutorial32_シフト最適化.ipynb">シフト最適化</a>|★☆☆☆☆|方程式制約||
 |tutorial33.|<a href="tutorial/tutorial33_ナップサック問題.ipynb">ナップサック問題</a>|★★★★★|コスト、Slack変数と不等式制約|2023/6/1|
 |tutorial34.|<a href="tutorial/tutorial34_線形回帰.ipynb">線形回帰</a>|★★★★☆|8bit表現||
+|tutorial35.|<a href="tutorial/tutorial35_クラスタリング.ipynb">クラスタリング</a>|★★★★☆|ワンホット、コスト||
 
 ★☆☆☆☆　1種類の条件式を使う<br>
 ★★☆☆☆　2種類以上の条件式を使う、もしくはそれに相当する難しさ<br>
