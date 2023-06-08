@@ -6,10 +6,10 @@
 |1|tutorial22|<a href="tutorial/tutorial22_最大カット問題の言い換え.ipynb">最大カット問題の言い換え</a>|★☆☆☆☆|制約の基礎|2023/5/24|
 |2|tutorial25.|<a href="tutorial/tutorial25_温度計.ipynb">温度計</a>|★★☆☆☆|制約の基礎、降順||
 |3|tutorial31.|<a href="tutorial/tutorial31_数字を均等に2組に分ける.ipynb">数字を均等に2組に分ける</a>|★☆☆☆☆|方程式制約|2023/5/24|
-|4|tutorial32.|<a href="tutorial/tutorial32_シフト最適化.ipynb">シフト最適化</a>|★☆☆☆☆|方程式制約||
+|4|tutorial32.|<a href="tutorial/tutorial32_シフト最適化.ipynb">シフト最適化</a>|★☆☆☆☆|方程式制約|2023/6/8|
 |5|tutorial23.|<a href="tutorial/tutorial23_橋をかけろ.ipynb">橋をかけろ</a>|★★☆☆☆|制約の強弱（コスト）|2023/5/18|
 |6|tutorial21.|<a href="tutorial/tutorial21_お絵かきロジック.ipynb">お絵描きロジック</a>|★★★☆☆|条件付きコスト|2023/4/27|
-|7|tutorial35.|<a href="tutorial/tutorial35_クラスタリング.ipynb">クラスタリング</a>|★★★☆☆|ワンホット、条件付きコスト||
+|7|tutorial35.|<a href="tutorial/tutorial35_クラスタリング.ipynb">クラスタリング</a>|★★★☆☆|ワンホット、条件付きコスト|2023/6/8|
 |8|tutorial20.|<a href="tutorial/tutorial20_巡回セールスマン問題.ipynb">巡回セールスマン問題</a>|★★★☆☆|ワンホット、条件付きコスト|2023/4/20|
 |9|tutorial27.|<a href="tutorial/tutorial27_連立方程式を解く.ipynb">連立方程式を解く</a>|★★★☆☆|8bit表現||
 |10|tutorial34.|<a href="tutorial/tutorial34_線形回帰.ipynb">線形回帰</a>|★★★☆☆|8bit表現||
