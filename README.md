@@ -11,8 +11,8 @@
 |6|tutorial21.|<a href="tutorial/tutorial21_お絵かきロジック.ipynb">お絵描きロジック</a>|★★★☆☆|条件付きコスト|2023/4/27|
 |7|tutorial35.|<a href="tutorial/tutorial35_クラスタリング.ipynb">クラスタリング</a>|★★★☆☆|ワンホット、条件付きコスト|2023/6/8|
 |8|tutorial20.|<a href="tutorial/tutorial20_巡回セールスマン問題.ipynb">巡回セールスマン問題</a>|★★★☆☆|ワンホット、条件付きコスト|2023/4/20|
-|9|tutorial27.|<a href="tutorial/tutorial27_連立方程式を解く.ipynb">連立方程式を解く</a>|★★★☆☆|8bit表現||
-|10|tutorial34.|<a href="tutorial/tutorial34_線形回帰.ipynb">線形回帰</a>|★★★☆☆|8bit表現||
+|9|tutorial27.|<a href="tutorial/tutorial27_連立方程式を解く.ipynb">連立方程式を解く</a>|★★★☆☆|8bit表現|2023/6/15|
+|10|tutorial34.|<a href="tutorial/tutorial34_線形回帰.ipynb">線形回帰</a>|★★★☆☆|8bit表現|2023/6/15|
 |11|tutorial33.|<a href="tutorial/tutorial33_ナップサック問題.ipynb">ナップサック問題</a>|★★★★☆|方程式コスト、Slack変数と不等式制約、降順|2023/6/1|
 
 さいごに<br>
