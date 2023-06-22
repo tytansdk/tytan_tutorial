@@ -33,8 +33,8 @@ QUBOでできることは一通り学べたので、あとは「問題をどう�
 ## チャレンジ問題（チュートリアルを終えてから）
 |No.|File|難度|ジャンル|問題提供|
 |:--|:--|:--|:--|:--|
-|1|<a href="https://colab.research.google.com/drive/1bMO0k-uvSkj8x0Hjrx-7nsI694w6s5S_?usp=sharing">スターバトル</a>|★★★★☆|ペンシルパズル系|yasuda|
-|2|<a href="https://colab.research.google.com/drive/11UzMBeLhuVIiuo7QpoMHQKcP-2OGNnRs?usp=sharing">ピタゴラス数</a>|★★★★☆|数学系|derwind|
+|1|<a href="https://colab.research.google.com/drive/1bMO0k-uvSkj8x0Hjrx-7nsI694w6s5S_?usp=sharing" target="_blank">スターバトル</a>|★★★★☆|ペンシルパズル系|yasuda|
+|2|<a href="https://colab.research.google.com/drive/11UzMBeLhuVIiuo7QpoMHQKcP-2OGNnRs?usp=sharing" target="_blank">ピタゴラス数</a>|★★★★☆|数学系|derwind|
 
 <br>
 
