@@ -20,13 +20,21 @@ QUBOでできることは一通り学べたので、あとは「問題をどう�
 
 <br>
 
-## 追加問題（余力がある人）
+## 追加問題（足りない人向け）
 |No.|File|Title|難度|項目|タイミング|
 |:--|:--|:--|:--|:--|:--|
 |1|tutorial29.|<a href="tutorial/tutorial29_ドミノサ.ipynb">ドミノサ</a>|★★☆☆☆|制約の基礎|おすすめ2の後|
 |2|tutorial24.|<a href="tutorial/tutorial24_美術館.ipynb">美術館</a>|★★☆☆☆|1つまたは2つ|おすすめ2の後|
 |3|tutorial26.|<a href="tutorial/tutorial26_カクラス.ipynb">カクラス</a>|★☆☆☆☆|方程式制約|おすすめ4の後|
 |4|tutorial28.|<a href="tutorial/tutorial28_ナンプレ＆不等号ナンプレ.ipynb">ナンプレ＆不等号ナンプレ</a>|★★★☆☆|ワンホット、条件付きコスト|おすすめ8の後|
+
+<br>
+
+## チャレンジ問題（チュートリアルを終えてから）
+|No.|File|難度|ジャンル|問題提供|
+|:--|:--|:--|:--|:--|
+|1|<a href="https://colab.research.google.com/drive/1bMO0k-uvSkj8x0Hjrx-7nsI694w6s5S_?usp=sharing">スターバトル</a>|★★★★☆|ペンシルパズル系|yasuda|
+|2|<a href="https://colab.research.google.com/drive/11UzMBeLhuVIiuo7QpoMHQKcP-2OGNnRs?usp=sharing">ピタゴラス数</a>|★★★★☆|数学系|derwind|
 
 <br>
 
