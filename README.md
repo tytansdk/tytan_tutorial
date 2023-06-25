@@ -1,19 +1,19 @@
 # tytan_tutorial
 
 ## おすすめコース
-|No.|File|Title|難度|項目|実施日|
-|:--|:--|:--|:--|:--|:--|
-|1|tutorial22|<a href="tutorial/tutorial22_最大カット問題の言い換え.ipynb">最大カット問題の言い換え</a>|★☆☆☆☆|制約の基礎|2023/5/24|
-|2|tutorial25.|<a href="tutorial/tutorial25_温度計.ipynb">温度計</a>|★★☆☆☆|制約の基礎、降順||
-|3|tutorial31.|<a href="tutorial/tutorial31_数字を均等に2組に分ける.ipynb">数字を均等に2組に分ける</a>|★☆☆☆☆|方程式制約|2023/5/24|
-|4|tutorial32.|<a href="tutorial/tutorial32_シフト最適化.ipynb">シフト最適化</a>|★☆☆☆☆|方程式制約|2023/6/8|
-|5|tutorial23.|<a href="tutorial/tutorial23_橋をかけろ.ipynb">橋をかけろ</a>|★★☆☆☆|制約の強弱（コスト）|2023/5/18|
-|6|tutorial21.|<a href="tutorial/tutorial21_お絵かきロジック.ipynb">お絵描きロジック</a>|★★★☆☆|条件付きコスト|2023/4/27|
-|7|tutorial35.|<a href="tutorial/tutorial35_クラスタリング.ipynb">クラスタリング</a>|★★★☆☆|ワンホット、条件付きコスト|2023/6/8|
-|8|tutorial20.|<a href="tutorial/tutorial20_巡回セールスマン問題.ipynb">巡回セールスマン問題</a>|★★★☆☆|ワンホット、条件付きコスト|2023/4/20|
-|9|tutorial27.|<a href="tutorial/tutorial27_連立方程式を解く.ipynb">連立方程式を解く</a>|★★★☆☆|8bit表現|2023/6/15|
-|10|tutorial34.|<a href="tutorial/tutorial34_線形回帰.ipynb">線形回帰</a>|★★★☆☆|8bit表現|2023/6/15|
-|11|tutorial33.|<a href="tutorial/tutorial33_ナップサック問題.ipynb">ナップサック問題</a>|★★★★☆|方程式コスト、Slack変数と不等式制約、降順|2023/6/1|
+|No.|Title|難度|項目|実施日|
+|:--|:--|:--|:--|:--|
+|1|<a href="https://colab.research.google.com/drive/1cPM7qx-mTIqxHQztKHJuW3EaCHn5hegg?usp=sharing" target="_blank">最大カット問題</a>|★☆☆☆☆|制約の基礎|2023/5/24|
+|2|<a href="https://colab.research.google.com/drive/1OkfbSQskWgyzKpbElqMEpd4ZhU9X05vv?usp=sharing" target="_blank">温度計パズル</a>|★★☆☆☆|制約の基礎、降順（＋便利関数）||
+|3|<a href="https://colab.research.google.com/drive/18pth1OMi2c9YO-hUC1sPxpjSKJoRnPIE?usp=sharing" target="_blank">数字を均等に2組に分ける</a>|★☆☆☆☆|方程式制約|2023/5/24|
+|4|<a href="https://colab.research.google.com/drive/1OYLy5kEcYwK59nCJH7IUZOU2gQc3w-Ku?usp=sharing" target="_blank">シフト最適化</a>|★☆☆☆☆|方程式制約|2023/6/8|
+|5|<a href="https://colab.research.google.com/drive/1oOEfCP9Ds9RvNwuE2Ri8PPw0o-FeW2TU?usp=sharing" target="_blank">橋をかけろ</a>|★★☆☆☆|制約の強弱（コスト）|2023/5/18|
+|6|<a href="https://colab.research.google.com/drive/1WwsQkrIGS7YMz26BvrExIBD3MvpxEhzT?usp=sharing" target="_blank">お絵かきロジック</a>|★★★☆☆|条件付きコスト（＋便利関数）|2023/4/27|
+|7|<a href="https://colab.research.google.com/drive/1ENTU11JxMPujaNx0MJ3gycamt8rZB3Xw?usp=sharing" target="_blank">クラスタリング</a>|★★★☆☆|ワンホット、条件付きコスト|2023/6/8|
+|8|<a href="https://colab.research.google.com/drive/17EVg0h-yMPm_qYLw8XMsCwCydaSDqajx?usp=sharing" target="_blank">巡回セールスマン問題</a>|★★★☆☆|ワンホット、条件付きコスト|2023/4/20|
+|9|<a href="https://colab.research.google.com/drive/1Tdi6jJUtgStU4ip6F0t0NUXxn7urPH8d?usp=sharing" target="_blank">連立方程式を解く</a>|★★★☆☆|8bit表現（＋便利関数）|2023/6/15|
+|10|<a href="https://colab.research.google.com/drive/1Zt9FFF48S0tYRgpoiTOaLxiaHpWjTgLg?usp=sharing" target="_blank">線形回帰</a>|★★★☆☆|8bit表現（＋便利関数）|2023/6/15|
+|11|<a href="https://colab.research.google.com/drive/128pWGsIQc5SZRZAwL-2cOlaWu5IbBZwT?usp=sharing" target="_blank">ナップサック問題</a>|★★★★☆|方程式コスト、Slack変数と不等式制約、降順|2023/6/1|
 
 さいごに<br>
 QUBOでできることは一通り学べたので、あとは「問題をどう言い換えるか」の勝負。「旧基礎一覧」にはおすすめコースで扱わなかった有名問題もあるため一通り読んでおくと良い（シグマ・i・jの数式で書かれているため慣れておこう）。旧基礎一覧のコードは旧式でエラーが出るため、コンパイル～サンプリング部の書き換えが必要である。
@@ -21,25 +21,25 @@ QUBOでできることは一通り学べたので、あとは「問題をどう�
 <br>
 
 ## 追加問題（足りない人向け）
-|No.|File|Title|難度|項目|タイミング|
-|:--|:--|:--|:--|:--|:--|
-|1|tutorial29.|<a href="tutorial/tutorial29_ドミノサ.ipynb">ドミノサ</a>|★★☆☆☆|制約の基礎|おすすめ2の後|
-|2|tutorial24.|<a href="tutorial/tutorial24_美術館.ipynb">美術館</a>|★★☆☆☆|1つまたは2つ|おすすめ2の後|
-|3|tutorial26.|<a href="tutorial/tutorial26_カクラス.ipynb">カクラス</a>|★☆☆☆☆|方程式制約|おすすめ4の後|
-|4|tutorial28.|<a href="tutorial/tutorial28_ナンプレ＆不等号ナンプレ.ipynb">ナンプレ＆不等号ナンプレ</a>|★★★☆☆|ワンホット、条件付きコスト|おすすめ8の後|
+|No.|Title|難度|項目|タイミング|
+|:--|:--|:--|:--|:--|
+|1|<a href="https://colab.research.google.com/drive/1ty72wZZyWtxLsCkDPeHlYo-MTmpxzeVY?usp=sharing" target="_blank">ドミノサ</a>|★★☆☆☆|制約の基礎|おすすめ2の後|
+|2|<a href="https://colab.research.google.com/drive/1oRoYlTXzLq6uLoG_gm4kX6gLAPZN0Fw8?usp=sharing" target="_blank">美術館</a>|★★☆☆☆|1つまたは2つ|おすすめ2の後|
+|3|<a href="https://colab.research.google.com/drive/1-vrk7FUOGxf4odsB8KRe0lwjC-yf4ChN?usp=sharing" target="_blank">カクラス</a>|★☆☆☆☆|方程式制約|おすすめ4の後|
+|4|<a href="https://colab.research.google.com/drive/1jP54pecRhdMgI1BMtdcI_sXWM1UZkjTm?usp=sharing" target="_blank">ナンプレ＆不等号ナンプレ</a>|★★★☆☆|ワンホット、条件付きコスト|おすすめ8の後|
 
 <br>
 
-## チャレンジ問題（チュートリアルを終えてから）
-|No.|File|難度|ジャンル|問題提供|
+## チャレンジ問題（おすすめコースを終えてから）
+|No.|Title|難度|ジャンル|問題提供|
 |:--|:--|:--|:--|:--|
-|1|<a href="https://colab.research.google.com/drive/1bMO0k-uvSkj8x0Hjrx-7nsI694w6s5S_?usp=sharing" target="_blank">スターバトル</a>|★★★★☆|ペンシルパズル系|yasuda|
+|1|<a href="https://colab.research.google.com/drive/1bMO0k-uvSkj8x0Hjrx-7nsI694w6s5S_?usp=sharing" target="_blank">スターバトル</a>|★★★☆☆|ペンシルパズル系|yasuda|
 |2|<a href="https://colab.research.google.com/drive/11UzMBeLhuVIiuo7QpoMHQKcP-2OGNnRs?usp=sharing" target="_blank">ピタゴラス数</a>|★★★★☆|数学系|derwind|
 
 <br>
 
 <details>
-<summary>旧基礎一覧（見た方が良い）</summary><div>
+<summary>旧基礎一覧（読んだほうが良い）</summary><div>
 
 ## 旧基礎一覧
 |File|Title|実施日|
@@ -56,34 +56,3 @@ QUBOでできることは一通り学べたので、あとは「問題をどう�
 |tutorial09.|<a href="tutorial/tutorial09_trafficflow_optimization.ipynb">交通最適化問題</a>||
 |tutorial10.|<a href="tutorial/tutorial10_liner_reg.ipynb">イジング線形回帰</a>||
 </div></details>
-
-
-<br>
-
-<details>
-<summary>旧応用一覧（見なくて良い）</summary><div>
-
-## 旧応用一覧
-|File|Title|難度|項目|実施日|
-|:--|:--|:--|:--|:--|
-|tutorial20.|<a href="tutorial/tutorial20_巡回セールスマン問題.ipynb">巡回セールスマン問題</a>|★★★★☆|条件付きコスト|2023/4/20|
-|tutorial21.|<a href="tutorial/tutorial21_お絵かきロジック.ipynb">お絵描きロジック</a>|★★★☆☆||2023/4/27|
-|tutorial22.|<a href="tutorial/tutorial22_最大カット問題の言い換え.ipynb">最大カット問題の言い換え</a>|★☆☆☆☆|制約の基礎|2023/5/24|
-|tutorial23.|<a href="tutorial/tutorial23_橋をかけろ.ipynb">橋をかけろ</a>|★★★☆☆||2023/5/18|
-|tutorial24.|<a href="tutorial/tutorial24_美術館.ipynb">美術館</a>|★★☆☆☆|||
-|tutorial25.|<a href="tutorial/tutorial25_温度計.ipynb">温度計</a>|★★☆☆☆|降順||
-|tutorial26.|<a href="tutorial/tutorial26_カクラス.ipynb">カクラス</a>|★★★☆☆|||
-|tutorial27.|<a href="tutorial/tutorial27_連立方程式を解く.ipynb">連立方程式を解く</a>|★★★★☆|8bit表現||
-|tutorial28.|<a href="tutorial/tutorial28_ナンプレ＆不等号ナンプレ.ipynb">ナンプレ＆不等号ナンプレ</a>|★★★★☆|ワンホット||
-|tutorial29.|<a href="tutorial/tutorial29_ドミノサ.ipynb">ドミノサ</a>|★★☆☆☆|||
-|tutorial30.|<a href="tutorial/tutorial30_犯人は誰だ？.ipynb">犯人は誰だ？</a>|★★☆☆☆|||
-|tutorial31.|<a href="tutorial/tutorial31_数字を均等に2組に分ける.ipynb">数字を均等に2組に分ける</a>|★★★☆☆|方程式制約|2023/5/24|
-|tutorial32.|<a href="tutorial/tutorial32_シフト最適化.ipynb">シフト最適化</a>|★☆☆☆☆|方程式制約||
-|tutorial33.|<a href="tutorial/tutorial33_ナップサック問題.ipynb">ナップサック問題</a>|★★★★★|コスト、Slack変数と不等式制約|2023/6/1|
-|tutorial34.|<a href="tutorial/tutorial34_線形回帰.ipynb">線形回帰</a>|★★★★☆|8bit表現||
-|tutorial35.|<a href="tutorial/tutorial35_クラスタリング.ipynb">クラスタリング</a>|★★★★☆|ワンホット、コスト||
-</div></details>
-
-
-
-
