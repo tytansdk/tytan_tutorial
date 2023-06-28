@@ -39,7 +39,7 @@ QUBOでできることは一通り学べたので、あとは「問題をどう�
 |:--|:--|:--|:--|:--|
 |1|<a href="https://colab.research.google.com/drive/1bMO0k-uvSkj8x0Hjrx-7nsI694w6s5S_?usp=sharing" target="_blank">スターバトル</a>|★★★☆☆|ペンシルパズル系|yasuda|
 |2|<a href="https://colab.research.google.com/drive/11UzMBeLhuVIiuo7QpoMHQKcP-2OGNnRs?usp=sharing" target="_blank">ピタゴラス数</a>|★★★★☆|数学系|derwind|
-|3|<a href="https://colab.research.google.com/drive/1dRgHQq5kWxVkQ2-y9NL266kROnq_sVeW?usp=sharing" target="_blank">ジョブシーケンス問題</a>|★★★★☆|ジョブシーケンス系|derwind|
+|3|<a href="https://colab.research.google.com/drive/1dRgHQq5kWxVkQ2-y9NL266kROnq_sVeW?usp=sharing" target="_blank">ジョブシーケンス問題</a>|★★★★☆|ジョブシーケンス系|yasuda|
 
 <br>
 
