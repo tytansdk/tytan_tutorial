@@ -1,10 +1,10 @@
-# tytan_tutorial
+## 情報
 
 TYTANの基本的な使い方はこちら → [TYTANトップページ](https://github.com/tytansdk/tytan)<br>
 TYTANの本格的な使い方はこちら → [TYTANドキュメント](https://github.com/tytansdk/tytan/blob/main/document%20.md)<br>
 質問やご意見などコミュニティはこちら → [Discord「TYTAN」](https://discord.gg/qT5etstPW8)
 
-
+<br>
 
 ## おすすめコース
 |No.|Title|難度|項目|実施日|
