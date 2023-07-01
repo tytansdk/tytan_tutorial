@@ -36,7 +36,7 @@ QUBOでできることは一通り学べたので、あとは「問題をどう�
 
 <br>
 
-## チャレンジ問題（おすすめコースを終えてから）
+## 実力テスト（おすすめコースを終えてから）
 |No.|Title|難度|ジャンル|問題提供|
 |:--|:--|:--|:--|:--|
 |1|<a href="https://colab.research.google.com/drive/1bMO0k-uvSkj8x0Hjrx-7nsI694w6s5S_?usp=sharing" target="_blank">スターバトル</a>|★★★☆☆|ペンシルパズル系|yasuda|
