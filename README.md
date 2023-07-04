@@ -46,6 +46,12 @@ QUBOでできることは一通り学べたので、あとは「問題をどう�
 
 <br>
 
+## 解き方募集中
+<a href="https://colab.research.google.com/drive/19dKlsKyQMjvdRyCg1hwCAg_WbRlS3dJV?usp=drive_link" target="_blank">2023年7月4日更新</a>
+
+
+<br>
+
 <details>
 <summary>旧基礎一覧（読んだほうが良い）</summary><div>
 
