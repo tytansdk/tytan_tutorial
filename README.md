@@ -7,19 +7,19 @@ TYTANの本格的な使い方はこちら → [TYTANドキュメント](https://
 <br>
 
 ## おすすめコース
-|No.|Title|難度|項目|実施日|
+|No.|Title|難度|項目|実施回|
 |:--|:--|:--|:--|:--|
-|1|<a href="https://colab.research.google.com/drive/1cPM7qx-mTIqxHQztKHJuW3EaCHn5hegg?usp=sharing" target="_blank">最大カット問題</a>|★☆☆☆☆|制約の基礎|2023/5/24|
-|2|<a href="https://colab.research.google.com/drive/1OkfbSQskWgyzKpbElqMEpd4ZhU9X05vv?usp=sharing" target="_blank">温度計パズル</a>|★★☆☆☆|制約の基礎、降順（＋便利関数）||
-|3|<a href="https://colab.research.google.com/drive/18pth1OMi2c9YO-hUC1sPxpjSKJoRnPIE?usp=sharing" target="_blank">数字を均等に2組に分ける</a>|★☆☆☆☆|方程式制約|2023/5/24|
-|4|<a href="https://colab.research.google.com/drive/1OYLy5kEcYwK59nCJH7IUZOU2gQc3w-Ku?usp=sharing" target="_blank">シフト最適化</a>|★☆☆☆☆|方程式制約|2023/6/8|
-|5|<a href="https://colab.research.google.com/drive/1oOEfCP9Ds9RvNwuE2Ri8PPw0o-FeW2TU?usp=sharing" target="_blank">橋をかけろ</a>|★★☆☆☆|制約の強弱（コスト）|2023/5/18|
-|6|<a href="https://colab.research.google.com/drive/1WwsQkrIGS7YMz26BvrExIBD3MvpxEhzT?usp=sharing" target="_blank">お絵かきロジック</a>|★★★☆☆|条件付きコスト（＋便利関数）|2023/4/27|
-|7|<a href="https://colab.research.google.com/drive/1ENTU11JxMPujaNx0MJ3gycamt8rZB3Xw?usp=sharing" target="_blank">クラスタリング</a>|★★★☆☆|ワンホット、条件付きコスト|2023/6/8|
-|8|<a href="https://colab.research.google.com/drive/17EVg0h-yMPm_qYLw8XMsCwCydaSDqajx?usp=sharing" target="_blank">巡回セールスマン問題</a>|★★★☆☆|ワンホット、条件付きコスト|2023/4/20|
-|9|<a href="https://colab.research.google.com/drive/1Tdi6jJUtgStU4ip6F0t0NUXxn7urPH8d?usp=sharing" target="_blank">連立方程式を解く</a>|★★★☆☆|8bit表現（＋便利関数）|2023/6/15|
-|10|<a href="https://colab.research.google.com/drive/1Zt9FFF48S0tYRgpoiTOaLxiaHpWjTgLg?usp=sharing" target="_blank">線形回帰</a>|★★★☆☆|8bit表現（＋便利関数）|2023/6/15|
-|11|<a href="https://colab.research.google.com/drive/128pWGsIQc5SZRZAwL-2cOlaWu5IbBZwT?usp=sharing" target="_blank">ナップサック問題</a>|★★★★☆|方程式コスト、Slack変数と不等式制約、降順|2023/6/1|
+|1|<a href="https://colab.research.google.com/drive/1cPM7qx-mTIqxHQztKHJuW3EaCHn5hegg?usp=sharing" target="_blank">最大カット問題</a>|★☆☆☆☆|制約の基礎|1|
+|2|<a href="https://colab.research.google.com/drive/1OkfbSQskWgyzKpbElqMEpd4ZhU9X05vv?usp=sharing" target="_blank">温度計パズル</a>|★★☆☆☆|制約の基礎、降順（＋便利関数）|1|
+|3|<a href="https://colab.research.google.com/drive/18pth1OMi2c9YO-hUC1sPxpjSKJoRnPIE?usp=sharing" target="_blank">数字を均等に2組に分ける</a>|★☆☆☆☆|方程式制約|2|
+|4|<a href="https://colab.research.google.com/drive/1OYLy5kEcYwK59nCJH7IUZOU2gQc3w-Ku?usp=sharing" target="_blank">シフト最適化</a>|★☆☆☆☆|方程式制約|2|
+|5|<a href="https://colab.research.google.com/drive/1oOEfCP9Ds9RvNwuE2Ri8PPw0o-FeW2TU?usp=sharing" target="_blank">橋をかけろ</a>|★★☆☆☆|制約の強弱（コスト）|3|
+|6|<a href="https://colab.research.google.com/drive/1WwsQkrIGS7YMz26BvrExIBD3MvpxEhzT?usp=sharing" target="_blank">お絵かきロジック</a>|★★★☆☆|条件付きコスト（＋便利関数）|3|
+|7|<a href="https://colab.research.google.com/drive/1ENTU11JxMPujaNx0MJ3gycamt8rZB3Xw?usp=sharing" target="_blank">クラスタリング</a>|★★★☆☆|ワンホット、条件付きコスト|4|
+|8|<a href="https://colab.research.google.com/drive/17EVg0h-yMPm_qYLw8XMsCwCydaSDqajx?usp=sharing" target="_blank">巡回セールスマン問題</a>|★★★☆☆|ワンホット、条件付きコスト|4|
+|9|<a href="https://colab.research.google.com/drive/1Tdi6jJUtgStU4ip6F0t0NUXxn7urPH8d?usp=sharing" target="_blank">連立方程式を解く</a>|★★★☆☆|8bit表現（＋便利関数）|5|
+|10|<a href="https://colab.research.google.com/drive/1Zt9FFF48S0tYRgpoiTOaLxiaHpWjTgLg?usp=sharing" target="_blank">線形回帰</a>|★★★☆☆|8bit表現（＋便利関数）|5|
+|11|<a href="https://colab.research.google.com/drive/128pWGsIQc5SZRZAwL-2cOlaWu5IbBZwT?usp=sharing" target="_blank">ナップサック問題</a>|★★★★☆|方程式コスト、Slack変数と不等式制約、降順|6|
 
 さいごに<br>
 QUBOでできることは一通り学べたので、あとは「問題をどう言い換えるか」の勝負。「旧基礎一覧」にはおすすめコースで扱わなかった有名問題もあるため一通り読んでおくと良い（シグマ・i・jの数式で書かれているため慣れておこう）。旧基礎一覧のコードは旧式でエラーが出るため、コンパイル～サンプリング部の書き換えが必要である。
@@ -36,7 +36,7 @@ QUBOでできることは一通り学べたので、あとは「問題をどう�
 
 <br>
 
-## 実力テスト（qubomaster認定試験問題）
+## 実力テスト（Qubomaster認定試験問題）
 |No.|Title|難度|ジャンル|問題提供|
 |:--|:--|:--|:--|:--|
 |1|<a href="https://colab.research.google.com/drive/1bMO0k-uvSkj8x0Hjrx-7nsI694w6s5S_?usp=sharing" target="_blank">スターバトル</a>|★★★★☆|パズル系|yasuda|
