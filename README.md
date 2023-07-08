@@ -44,6 +44,21 @@ QUBOでできることは一通り学べたので、あとは「問題をどう�
 |3|<a href="https://colab.research.google.com/drive/1dRgHQq5kWxVkQ2-y9NL266kROnq_sVeW?usp=sharing" target="_blank">ジョブシーケンス問題</a>|★★★★☆|お仕事系|yasuda|
 |4|<a href="https://colab.research.google.com/drive/1BLTWenIX0cjffwH9B6mpw-HRE24BkSNj?usp=sharing" target="_blank">ばねにはたらく力</a>|★★★★☆|高校物理|yasuda|
 
+Qubomaster認定試験に挑戦される方は、実力テストから任意の2問を解いて.ipynbまたは.pyをShoya Yasudaまでメール・DM等でご提出ください。
+
+▼注意事項<br>
+テキスト欄やコメントアウトにより最低限の説明や思考過程を含めてください<br>
+その際、チュートリアルの「おすすめコース」のどれと関連があるかにも触れてください<br>
+説明のための図は必ずしも必要ありません<br>
+アニーリングのソルバーには必ずTYTANパッケージを使用してください<br>
+必ずしも1回の実行で正解が得られる必要はなく、正解が得られることが期待できるコードであれば問題ありません<br>
+
+▼合格条件<br>
+QUBO条件式が妥当であること<br>
+説明や思考過程が妥当であること<br>
+十分な可読性のPythonコードであること<br>
+チュートリアル「おすすめコース」を把握していること<br>
+
 <br>
 
 ## 解き方募集中
