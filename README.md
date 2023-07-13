@@ -11,7 +11,7 @@ TYTANの本格的な使い方はこちら → [TYTANドキュメント](https://
 |:--|:--|:--|:--|:--|
 |1|<a href="https://colab.research.google.com/drive/1cPM7qx-mTIqxHQztKHJuW3EaCHn5hegg?usp=sharing" target="_blank">最大カット問題</a>|★☆☆☆☆|制約の基礎|1|
 |2|<a href="https://colab.research.google.com/drive/1OkfbSQskWgyzKpbElqMEpd4ZhU9X05vv?usp=sharing" target="_blank">温度計パズル</a>|★★☆☆☆|制約の基礎、降順（＋便利関数）|1|
-|3|<a href="https://colab.research.google.com/drive/18pth1OMi2c9YO-hUC1sPxpjSKJoRnPIE?usp=sharing" target="_blank">数字を均等に2組に分ける</a>|★☆☆☆☆|方程式制約|2|
+|3|<a href="https://colab.research.google.com/drive/18pth1OMi2c9YO-hUC1sPxpjSKJoRnPIE?usp=sharing" target="_blank">数字を均等に2組に分ける</a>|★☆☆☆☆|方程式制約（＋イジング版）|2|
 |4|<a href="https://colab.research.google.com/drive/1OYLy5kEcYwK59nCJH7IUZOU2gQc3w-Ku?usp=sharing" target="_blank">シフト最適化</a>|★☆☆☆☆|方程式制約|2|
 |5|<a href="https://colab.research.google.com/drive/1oOEfCP9Ds9RvNwuE2Ri8PPw0o-FeW2TU?usp=sharing" target="_blank">橋をかけろ</a>|★★☆☆☆|制約の強弱（コスト）|3|
 |6|<a href="https://colab.research.google.com/drive/1WwsQkrIGS7YMz26BvrExIBD3MvpxEhzT?usp=sharing" target="_blank">お絵かきロジック</a>|★★★☆☆|条件付きコスト（＋便利関数）|3|
