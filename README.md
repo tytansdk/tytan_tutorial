@@ -38,13 +38,13 @@ QUBOでできることは一通り学べたので、あとは「問題をどう�
 <br>
 
 ## 実力テスト（Qubomaster認定試験問題）
-|No.|Title|難度|ジャンル|問題提供|
+|No.|Title|難度|ジャンル|作問協力|
 |:--|:--|:--|:--|:--|
 |1|<a href="https://colab.research.google.com/drive/1bMO0k-uvSkj8x0Hjrx-7nsI694w6s5S_?usp=sharing" target="_blank">スターバトル</a>|★★★★☆|パズル|yasuda|
 |2|<a href="https://colab.research.google.com/drive/11UzMBeLhuVIiuo7QpoMHQKcP-2OGNnRs?usp=sharing" target="_blank">ピタゴラス数</a>|★★★★☆|数学|derwind|
 |3|<a href="https://colab.research.google.com/drive/1dRgHQq5kWxVkQ2-y9NL266kROnq_sVeW?usp=sharing" target="_blank">ジョブシーケンス問題</a>|★★★★☆|工程|yasuda|
-|4|<a href="https://colab.research.google.com/drive/1BLTWenIX0cjffwH9B6mpw-HRE24BkSNj?usp=sharing" target="_blank">ばねにはたらく力</a>|★★★★☆|高校物理|yasuda|
-|5|<a href="https://colab.research.google.com/drive/1R6O6pLiQkPyYKZK73Lokn4gHyEIX_XxM?usp=sharing" target="_blank">グラコロバーガー合成経路</a>|★★★★☆|工程|yasuda|
+|4|<a href="https://colab.research.google.com/drive/1BLTWenIX0cjffwH9B6mpw-HRE24BkSNj?usp=sharing" target="_blank">ばねにはたらく力</a>|★★★★☆|高校物理|derwind|
+|5|<a href="https://colab.research.google.com/drive/1R6O6pLiQkPyYKZK73Lokn4gHyEIX_XxM?usp=sharing" target="_blank">グラコロバーガー合成経路</a>|★★★★☆|工程|derwind|
 
 Qubomaster認定試験に挑戦される方は、実力テストから任意の2問を解いて.ipynbまたは.pyをShoya Yasudaまでメール・DM等でご提出ください。
 
