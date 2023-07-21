@@ -2,7 +2,8 @@
 
 TYTANの基本的な使い方はこちら → [TYTANトップページ](https://github.com/tytansdk/tytan)<br>
 TYTANの本格的な使い方はこちら → [TYTANドキュメント](https://github.com/tytansdk/tytan/blob/main/document%20.md)<br>
-質問やご意見などコミュニティはこちら → [Discord「TYTAN」](https://discord.gg/qT5etstPW8)
+質問やご意見などコミュニティはこちら → [Discord「TYTAN」](https://discord.gg/qT5etstPW8)<br>
+勉強会（チュートリアル解説会）の予定・告知はこちら → [connpass「TYTANアニーリング」](https://mdrft.connpass.com/event/)
 
 <br>
 
@@ -58,6 +59,11 @@ QUBO条件式が妥当であること<br>
 説明や思考過程が妥当であること<br>
 十分な可読性のPythonコードであること<br>
 チュートリアル「おすすめコース」を把握していること<br>
+
+連絡先<br>
+・DiscordのDM（※解答はDiscord「TYTAN」公開チャンネルに投稿しないようご注意ください）<br>
+・SlackのDM<br>
+・yasudaあっとvigne-cla.com
 
 <br>
 
