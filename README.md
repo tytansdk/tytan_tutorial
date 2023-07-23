@@ -62,7 +62,7 @@ QUBO条件式が妥当であること<br>
 チュートリアル「おすすめコース」を把握していること<br>
 
 連絡先<br>
-・DiscordのDM（※解答はDiscord「TYTAN」公開チャンネルに投稿しないようご注意ください）<br>
+・DiscordのDM（※公開チャンネルに投稿しないようご注意ください）<br>
 ・SlackのDM<br>
 ・yasudaあっとvigne-cla.com
 
