@@ -74,10 +74,11 @@ QUBO条件式が妥当であること<br>
 
 <br>
 
-<details>
-<summary>旧基礎一覧（読んだほうが良い）</summary><div>
 
-## 旧基礎一覧
+## 旧基礎一覧（コードの更新遅れています、読み物として）
+<details>
+<summary>旧基礎一覧</summary><div>
+
 |File|Title|実施日|
 |:--|:--|:--|
 |tutorial00.|<a href="tutorial/tutorial00_networkx.ipynb">ネットワークX</a>|2023/04/11|
@@ -92,6 +93,8 @@ QUBO条件式が妥当であること<br>
 |tutorial09.|<a href="tutorial/tutorial09_trafficflow_optimization.ipynb">交通最適化問題</a>||
 |tutorial10.|<a href="tutorial/tutorial10_liner_reg.ipynb">イジング線形回帰</a>||
 </div></details>
+
+<br>
 
 ## 運営協力
 <a href="https://vigne-cla.com/" target="_blank"><img src="https://github.com/tytansdk/tytan/blob/main/img/logo_vc_f_sk.png" width="150"></a>
