@@ -94,4 +94,4 @@ QUBO条件式が妥当であること<br>
 </div></details>
 
 ## 運営協力
-<a href="index.html" target="_blank"><img src="https://github.com/tytansdk/tytan/blob/main/img/logo_vc_f_sk.png" width="150"></a>
+<a href="https://vigne-cla.com/" target="_blank"><img src="https://github.com/tytansdk/tytan/blob/main/img/logo_vc_f_sk.png" width="150"></a>
