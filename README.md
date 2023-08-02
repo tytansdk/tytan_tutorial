@@ -87,7 +87,7 @@ QUBO条件式が妥当であること<br>
 |tutorial03.|<a href="tutorial/tutorial03_bil.ipynb">整数計画問題</a>|2023/05/17|
 |tutorial04.|<a href="tutorial/tutorial04_graphcoloring.ipynb">グラフ分割問題、グラフカラーリング問題</a>|2023/05/17|
 |tutorial05.|<a href="tutorial/tutorial05_cliques.ipynb">クリーク判定問題、クリークカバー問題</a>||
-|tutorial06.|<a href="tutorial/tutorial06_job_sequencing_problem.ipynb">ジョブシークエンス、ナップザック問題</a>|★ジョブシーケンスのD-waveにまだ間違いがあります。実力テストの参考にされる場合はご注意ください！|
+|tutorial06.|<a href="tutorial/tutorial06_job_sequencing_problem.ipynb">ジョブシークエンス、ナップザック問題</a>|★一部間違いがあります。実力テストの参考にされる場合はご注意ください！|
 |tutorial07.|<a href="tutorial/tutorial07_setcover_setpacking.ipynb">セットカバー、セットパッキング</a>||
 |tutorial08.|<a href="tutorial/tutorial08_clustering_vertex_cover.ipynb">クラスタリング、頂点被覆問題</a>||
 |tutorial09.|<a href="tutorial/tutorial09_trafficflow_optimization.ipynb">交通最適化問題</a>||
