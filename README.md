@@ -97,4 +97,6 @@ QUBO条件式が妥当であること<br>
 <br>
 
 ## 運営協力
-<a href="https://vigne-cla.com/" target="_blank"><img src="https://github.com/tytansdk/tytan/blob/main/img/logo_vc_f_sk.png" width="150"></a>
+<a href="https://www.chodai.co.jp/" target="_blank"><img src="https://github.com/tytansdk/tytan_tutorial/blob/main/img/logo_chodai.png" width="150"></a><br>
+<a href="https://vigne-cla.com/" target="_blank"><img src="https://github.com/tytansdk/tytan_tutorial/blob/main/img/logo_vc_f_sk.png" width="150"></a>
+
