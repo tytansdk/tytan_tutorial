@@ -44,7 +44,7 @@ QUBOでできることは一通り学べたので、あとは「問題をどう�
 |2|<a href="https://colab.research.google.com/drive/11UzMBeLhuVIiuo7QpoMHQKcP-2OGNnRs?usp=sharing" target="_blank">ピタゴラス数</a>|★★★★☆|数学|derwind|
 |3|<a href="https://colab.research.google.com/drive/1dRgHQq5kWxVkQ2-y9NL266kROnq_sVeW?usp=sharing" target="_blank">ジョブシーケンス問題</a>|★★★★☆|工程|yasuda|
 |4|<a href="https://colab.research.google.com/drive/1BLTWenIX0cjffwH9B6mpw-HRE24BkSNj?usp=sharing" target="_blank">ばねにはたらく力</a>|★★★★☆|高校物理|derwind|
-|5|<a href="https://colab.research.google.com/drive/1R6O6pLiQkPyYKZK73Lokn4gHyEIX_XxM?usp=sharing" target="_blank">クリティカルパス問題</a>|★★★★☆|工程|derwind|
+|5|<a href="https://colab.research.google.com/drive/1R6O6pLiQkPyYKZK73Lokn4gHyEIX_XxM?usp=sharing" target="_blank">クリティカルパス問題</a>|★★★★★|工程|derwind|
 
 Qubomaster認定試験に挑戦される方は、実力テストから任意の2問を解いて.ipynbまたは.pyをShoya Yasudaまでメール・DM等でご提出ください。
 
