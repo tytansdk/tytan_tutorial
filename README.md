@@ -5,6 +5,8 @@ TYTANの本格的な使い方はこちら → [TYTANドキュメント](https://
 質問やご意見などコミュニティはこちら → [Discord「TYTAN」](https://discord.gg/qT5etstPW8)<br>
 勉強会（チュートリアル解説会）の予定・告知はこちら → [connpass「TYTANアニーリング」](https://mdrft.connpass.com/event/)
 
+※オンデマンド配信はこちら！ → [再生リスト「アニーリングチュートリアル」](https://www.youtube.com/watch?v=AmiU5WLJYfk&list=PLQOGM0zeI92QXFHSjuyTh2qogH2iee2Zi)
+
 <br>
 
 ## おすすめコース
