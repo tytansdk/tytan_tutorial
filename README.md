@@ -29,13 +29,13 @@ QUBOでできることは一通り学べたので、あとは「問題をどう�
 
 <br>
 
-## 追加問題（足りない人向け）
-|No.|Title|難度|項目|タイミング|
+## ステップアップ演習コース
+|No.|Title|難度|項目|ステップアップ内容|
 |:--|:--|:--|:--|:--|
-|1|<a href="https://colab.research.google.com/drive/1ty72wZZyWtxLsCkDPeHlYo-MTmpxzeVY?usp=sharing" target="_blank">ドミノサ</a>|★★☆☆☆|制約の基礎|おすすめ2の後|
-|2|<a href="https://colab.research.google.com/drive/1oRoYlTXzLq6uLoG_gm4kX6gLAPZN0Fw8?usp=sharing" target="_blank">美術館</a>|★★☆☆☆|1つまたは2つ|おすすめ2の後|
-|3|<a href="https://colab.research.google.com/drive/1-vrk7FUOGxf4odsB8KRe0lwjC-yf4ChN?usp=sharing" target="_blank">カクラス</a>|★☆☆☆☆|方程式制約|おすすめ4の後|
-|4|<a href="https://colab.research.google.com/drive/1jP54pecRhdMgI1BMtdcI_sXWM1UZkjTm?usp=sharing" target="_blank">ナンプレ＆不等号ナンプレ</a>|★★★☆☆|ワンホット、条件付きコスト|おすすめ8の後|
+|1|橋をかけろ|★☆☆☆☆|制約の基礎|複数の解法|
+|2|ドミノサ|★★☆☆☆|制約の基礎|量子ビットの置き方|
+|3|カクラス|★★☆☆☆|方程式制約|配列の扱い（便利関数）|
+|4|不等号ナンプレ|★★★☆☆|ワンホット、条件付きコスト|配列の扱い（便利関数）|
 
 <br>
 
