@@ -6,7 +6,7 @@ TYTANの本格的な使い方はこちら → [TYTANドキュメント](https://
 勉強会（チュートリアル解説会）の予定・告知はこちら → [connpass「TYTANアニーリング」](https://mdrft.connpass.com/event/)
 
 ★見逃した方はこちら★<br>
-オンデマンド配信はこちら！ → [再生リスト「アニーリングチュートリアル」](https://www.youtube.com/watch?v=AmiU5WLJYfk&list=PLQOGM0zeI92QXFHSjuyTh2qogH2iee2Zi)
+オンデマンド配信はこちら！ → [再生リスト「アニーリングチュートリアル」](https://www.youtube.com/playlist?list=PLQOGM0zeI92QXFHSjuyTh2qogH2iee2Zi)
 
 <br>
 
