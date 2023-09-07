@@ -14,7 +14,7 @@ TYTANの本格的な使い方はこちら → [TYTANドキュメント](https://
 はじめに<br>
 アニーリングとは？QUBOとは？年収は？調べてみた結果分かりませんでした。いかがでしたか？
 
-|テキストNo.|Title|難度|項目|実施日|
+|No.|Title|難度|学習項目|実施日|
 |:--|:--|:--|:--|:--|
 |1|<a href="https://colab.research.google.com/drive/1cPM7qx-mTIqxHQztKHJuW3EaCHn5hegg?usp=sharing" target="_blank">最大カット問題</a>|★☆☆☆☆|制約の基礎|1|
 |2|<a href="https://colab.research.google.com/drive/1OkfbSQskWgyzKpbElqMEpd4ZhU9X05vv?usp=sharing" target="_blank">温度計パズル</a>|★★☆☆☆|制約の基礎、降順（＋便利関数）|1|
