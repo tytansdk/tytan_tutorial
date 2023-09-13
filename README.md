@@ -24,8 +24,8 @@ TYTANの本格的な使い方はこちら → [TYTANドキュメント](https://
 |5|<a href="https://colab.research.google.com/drive/1WwsQkrIGS7YMz26BvrExIBD3MvpxEhzT?usp=sharing" target="_blank">お絵かきロジック</a>|★★★☆☆|条件報酬、条件ペナルティ（＋便利関数）|3|
 |6|<a href="https://colab.research.google.com/drive/17EVg0h-yMPm_qYLw8XMsCwCydaSDqajx?usp=sharing" target="_blank">巡回セールスマン問題</a>|★★★☆☆|ワンホット、コスト（＋自習）|4|
 |7|<a href="https://colab.research.google.com/drive/1ENTU11JxMPujaNx0MJ3gycamt8rZB3Xw?usp=sharing" target="_blank">クラスタリング</a>|★★★☆☆|ワンホット、コスト（＋自習）|4|
-|8|<a href="https://colab.research.google.com/drive/1Tdi6jJUtgStU4ip6F0t0NUXxn7urPH8d?usp=sharing" target="_blank">連立方程式を解く</a>|★★★☆☆|8bit表現（＋便利関数）|5|
-|9|<a href="https://colab.research.google.com/drive/1Zt9FFF48S0tYRgpoiTOaLxiaHpWjTgLg?usp=sharing" target="_blank">線形回帰</a>|★★★☆☆|8bit表現（＋便利関数）|5|
+|8|<a href="https://colab.research.google.com/drive/1Tdi6jJUtgStU4ip6F0t0NUXxn7urPH8d?usp=sharing" target="_blank">連立方程式を解く</a>|★★★☆☆|2進数（N-bit）表現（＋便利関数）|5|
+|9|<a href="https://colab.research.google.com/drive/1Zt9FFF48S0tYRgpoiTOaLxiaHpWjTgLg?usp=sharing" target="_blank">線形回帰</a>|★★★☆☆|2進数（N-bit）表現（＋便利関数）|5|
 |10|<a href="https://colab.research.google.com/drive/128pWGsIQc5SZRZAwL-2cOlaWu5IbBZwT?usp=sharing" target="_blank">ナップサック問題</a>|★★★★☆|方程式コスト、Slack変数と不等式制約、降順|6|
 
 さいごに<br>
