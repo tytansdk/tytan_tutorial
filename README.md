@@ -14,19 +14,19 @@ TYTANの本格的な使い方はこちら → [TYTANドキュメント](https://
 はじめに<br>
 アニーリングとは？QUBOとは？年収は？調べてみた結果分かりませんでした。いかがでしたか？
 
-|No.|Title|難度|学習内容|実施日|
-|:--|:--|:--|:--|:--|
-|1|<a href="https://colab.research.google.com/drive/1cPM7qx-mTIqxHQztKHJuW3EaCHn5hegg?usp=sharing" target="_blank">最大カット問題</a>|★☆☆☆☆|制約の基礎|1|
-|2|<a href="https://colab.research.google.com/drive/1OkfbSQskWgyzKpbElqMEpd4ZhU9X05vv?usp=sharing" target="_blank">温度計パズル</a>|★★☆☆☆|制約の基礎、降順（＋便利関数）|1|
-|3|<a href="https://colab.research.google.com/drive/18pth1OMi2c9YO-hUC1sPxpjSKJoRnPIE?usp=sharing" target="_blank">数字を均等に2組に分ける</a>|★☆☆☆☆|方程式制約（＋イジング版）|2|
-|4|<a href="https://colab.research.google.com/drive/1OYLy5kEcYwK59nCJH7IUZOU2gQc3w-Ku?usp=sharing" target="_blank">シフト最適化</a>|★☆☆☆☆|方程式制約|2|
-||橋をかけろ ※移植しました||||
-|5|<a href="https://colab.research.google.com/drive/1WwsQkrIGS7YMz26BvrExIBD3MvpxEhzT?usp=sharing" target="_blank">お絵かきロジック</a>|★★★☆☆|条件報酬、条件ペナルティ（＋便利関数）|3|
-|6|<a href="https://colab.research.google.com/drive/17EVg0h-yMPm_qYLw8XMsCwCydaSDqajx?usp=sharing" target="_blank">巡回セールスマン問題</a>|★★★☆☆|ワンホット、コスト（＋自習）|4|
-|7|<a href="https://colab.research.google.com/drive/1ENTU11JxMPujaNx0MJ3gycamt8rZB3Xw?usp=sharing" target="_blank">クラスタリング</a>|★★★☆☆|ワンホット、コスト（＋自習）|4|
-|8|<a href="https://colab.research.google.com/drive/1Tdi6jJUtgStU4ip6F0t0NUXxn7urPH8d?usp=sharing" target="_blank">連立方程式を解く</a>|★★★☆☆|2進数（N-bit）表現（＋便利関数）|5|
-|9|<a href="https://colab.research.google.com/drive/1Zt9FFF48S0tYRgpoiTOaLxiaHpWjTgLg?usp=sharing" target="_blank">線形回帰</a>|★★★☆☆|2進数（N-bit）表現（＋便利関数）|5|
-|10|<a href="https://colab.research.google.com/drive/128pWGsIQc5SZRZAwL-2cOlaWu5IbBZwT?usp=sharing" target="_blank">ナップサック問題</a>|★★★★☆|方程式コスト、Slack変数と不等式制約、降順|6|
+|No.|Title|難度|学習内容|おまけ|実施日|
+|:--|:--|:--|:--|:--|:--|
+|1|<a href="https://colab.research.google.com/drive/1cPM7qx-mTIqxHQztKHJuW3EaCHn5hegg?usp=sharing" target="_blank">最大カット問題</a>|#|制約の基礎||1|
+|2|<a href="https://colab.research.google.com/drive/1OkfbSQskWgyzKpbElqMEpd4ZhU9X05vv?usp=sharing" target="_blank">温度計パズル</a>|##|制約の基礎、降順|便利関数|1|
+|3|<a href="https://colab.research.google.com/drive/18pth1OMi2c9YO-hUC1sPxpjSKJoRnPIE?usp=sharing" target="_blank">数字を均等に2組に分ける</a>|#|方程式制約|イジング版|2|
+|4|<a href="https://colab.research.google.com/drive/1OYLy5kEcYwK59nCJH7IUZOU2gQc3w-Ku?usp=sharing" target="_blank">シフト最適化</a>|#|方程式制約||2|
+||橋をかけろ ※移植しました|||||
+|5|<a href="https://colab.research.google.com/drive/1WwsQkrIGS7YMz26BvrExIBD3MvpxEhzT?usp=sharing" target="_blank">お絵かきロジック</a>|###|条件報酬、条件ペナルティ|便利関数|3|
+|6|<a href="https://colab.research.google.com/drive/17EVg0h-yMPm_qYLw8XMsCwCydaSDqajx?usp=sharing" target="_blank">巡回セールスマン問題</a>|###|ワンホット、コスト|演習|4|
+|7|<a href="https://colab.research.google.com/drive/1ENTU11JxMPujaNx0MJ3gycamt8rZB3Xw?usp=sharing" target="_blank">クラスタリング</a>|###|ワンホット、コスト||4|
+|8|<a href="https://colab.research.google.com/drive/1Tdi6jJUtgStU4ip6F0t0NUXxn7urPH8d?usp=sharing" target="_blank">連立方程式を解く</a>|###|2進数（N-bit）表現|便利関数|5|
+|9|<a href="https://colab.research.google.com/drive/1Zt9FFF48S0tYRgpoiTOaLxiaHpWjTgLg?usp=sharing" target="_blank">線形回帰</a>|###|2進数（N-bit）表現|演習、便利関数|5|
+|10|<a href="https://colab.research.google.com/drive/128pWGsIQc5SZRZAwL-2cOlaWu5IbBZwT?usp=sharing" target="_blank">ナップサック問題</a>|####|コスト、Slack変数と不等式制約、降順||6|
 
 さいごに<br>
 QUBOでできることは一通り学べたので、あとは問題を言い換えて知っているテクニックに落とし込めるかの勝負。ページ下部の「旧基礎一覧」にはおすすめコースで扱わなかった有名問題もあるため一通り読んでおくと良い（ただしコードが少し古いためエラーが出る可能性がある、有志による修正を祈る）。
@@ -38,10 +38,10 @@ QUBOでできることは一通り学べたので、あとは問題を言い換�
 
 |No.|Title|難度|項目|ステップアップ内容|
 |:--|:--|:--|:--|:--|
-|1|橋をかけろ|★☆☆☆☆|制約の基礎|複数の解法|
-|2|ドミノサ|★★☆☆☆|制約の基礎|量子ビットの置き方|
-|3|カクラス|★★☆☆☆|方程式制約|配列の扱い（便利関数）|
-|4|不等号ナンプレ|★★★☆☆|ワンホット、条件付きコスト|配列の扱い（便利関数）|
+|1|橋をかけろ|#|制約の基礎|複数の解法|
+|2|ドミノサ|##|制約の基礎|量子ビットの置き方|
+|3|カクラス|##|方程式制約|配列の扱い（便利関数）|
+|4|不等号ナンプレ|###|ワンホット、条件付きコスト|配列の扱い（便利関数）|
 
 <br>
 
@@ -50,11 +50,11 @@ QUBOでできることは一通り学べたので、あとは問題を言い換�
 
 |No.|Title|難度|ジャンル|作問協力|
 |:--|:--|:--|:--|:--|
-|1|<a href="https://colab.research.google.com/drive/1bMO0k-uvSkj8x0Hjrx-7nsI694w6s5S_?usp=sharing" target="_blank">スターバトル</a>|★★★★☆|パズル|yasuda|
-|2|<a href="https://colab.research.google.com/drive/11UzMBeLhuVIiuo7QpoMHQKcP-2OGNnRs?usp=sharing" target="_blank">ピタゴラス数</a>|★★★★☆|数学|derwind|
-|3|<a href="https://colab.research.google.com/drive/1dRgHQq5kWxVkQ2-y9NL266kROnq_sVeW?usp=sharing" target="_blank">ジョブシーケンス問題</a>|★★★★☆|工程|yasuda|
-|4|<a href="https://colab.research.google.com/drive/1BLTWenIX0cjffwH9B6mpw-HRE24BkSNj?usp=sharing" target="_blank">ばねにはたらく力</a>|★★★★☆|高校物理|derwind|
-|5|<a href="https://colab.research.google.com/drive/1R6O6pLiQkPyYKZK73Lokn4gHyEIX_XxM?usp=sharing" target="_blank">クリティカルパス問題</a>|★★★★★|工程|derwind|
+|1|<a href="https://colab.research.google.com/drive/1bMO0k-uvSkj8x0Hjrx-7nsI694w6s5S_?usp=sharing" target="_blank">スターバトル</a>|####|パズル|yasuda|
+|2|<a href="https://colab.research.google.com/drive/11UzMBeLhuVIiuo7QpoMHQKcP-2OGNnRs?usp=sharing" target="_blank">ピタゴラス数</a>|####|数学|derwind|
+|3|<a href="https://colab.research.google.com/drive/1dRgHQq5kWxVkQ2-y9NL266kROnq_sVeW?usp=sharing" target="_blank">ジョブシーケンス問題</a>|####|工程|yasuda|
+|4|<a href="https://colab.research.google.com/drive/1BLTWenIX0cjffwH9B6mpw-HRE24BkSNj?usp=sharing" target="_blank">ばねにはたらく力</a>|####|高校物理|derwind|
+|5|<a href="https://colab.research.google.com/drive/1R6O6pLiQkPyYKZK73Lokn4gHyEIX_XxM?usp=sharing" target="_blank">クリティカルパス問題</a>|#####|工程|derwind|
 
 Qubomaster認定試験に挑戦される方は、実力テストから任意の2問を解いて.ipynbまたは.pyをShoya Yasudaまでメール・DM等でご提出ください。
 
