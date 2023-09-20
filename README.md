@@ -26,7 +26,7 @@ TYTANの本格的な使い方はこちら → [TYTANドキュメント](https://
 |7|<a href="https://colab.research.google.com/drive/1ENTU11JxMPujaNx0MJ3gycamt8rZB3Xw?usp=sharing" target="_blank">クラスタリング</a>|###|ワンホット、コスト||4|
 |8|<a href="https://colab.research.google.com/drive/1Tdi6jJUtgStU4ip6F0t0NUXxn7urPH8d?usp=sharing" target="_blank">連立方程式を解く</a>|###|2進数（N-bit）表現|便利関数|5|
 |9|<a href="https://colab.research.google.com/drive/1Zt9FFF48S0tYRgpoiTOaLxiaHpWjTgLg?usp=sharing" target="_blank">線形回帰</a>|###|2進数（N-bit）表現|便利関数|5|
-|10|<a href="https://colab.research.google.com/drive/128pWGsIQc5SZRZAwL-2cOlaWu5IbBZwT?usp=sharing" target="_blank">ナップサック問題</a>|####|コスト、Slack変数と不等式制約、降順||6|
+|10|<a href="https://colab.research.google.com/drive/128pWGsIQc5SZRZAwL-2cOlaWu5IbBZwT?usp=sharing" target="_blank">ナップサック問題</a>|####|コスト、補助変数と不等式制約||6|
 
 さいごに<br>
 QUBOでできることは一通り学べたので、あとは問題を言い換えて知っているテクニックに落とし込めるかの勝負。ページ下部の「旧基礎一覧」にはおすすめコースで扱わなかった有名問題もあるため一通り読んでおくと良い（ただしコードが少し古いためエラーが出る可能性がある、有志による修正を祈る）。
