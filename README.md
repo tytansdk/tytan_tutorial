@@ -17,10 +17,9 @@ TYTANの本格的な使い方はこちら → [TYTANドキュメント](https://
 |No.|Title|難度|学習内容|おまけ|実施日|
 |:--|:--|:--|:--|:--|:--|
 |1|<a href="https://colab.research.google.com/drive/1cPM7qx-mTIqxHQztKHJuW3EaCHn5hegg?usp=sharing" target="_blank">最大カット問題</a>|#|制約の基礎||1|
-|2|<a href="https://colab.research.google.com/drive/1OkfbSQskWgyzKpbElqMEpd4ZhU9X05vv?usp=sharing" target="_blank">温度計パズル</a>|##|制約の基礎、降順|便利関数|1|
+|2|<a href="https://colab.research.google.com/drive/1OkfbSQskWgyzKpbElqMEpd4ZhU9X05vv?usp=sharing" target="_blank">温度計パズル</a>|##|制約の基礎、降順|便利関数|2|
 |3|<a href="https://colab.research.google.com/drive/18pth1OMi2c9YO-hUC1sPxpjSKJoRnPIE?usp=sharing" target="_blank">数字を均等に2組に分ける</a>|#|方程式制約|イジング版|2|
-|4|<a href="https://colab.research.google.com/drive/1OYLy5kEcYwK59nCJH7IUZOU2gQc3w-Ku?usp=sharing" target="_blank">シフト最適化</a>|#|方程式制約||2|
-||橋をかけろ ※移植|||||
+|4|<a href="https://colab.research.google.com/drive/1OYLy5kEcYwK59nCJH7IUZOU2gQc3w-Ku?usp=sharing" target="_blank">シフト最適化</a>|#|方程式制約||3|
 |5|<a href="https://colab.research.google.com/drive/1WwsQkrIGS7YMz26BvrExIBD3MvpxEhzT?usp=sharing" target="_blank">お絵かきロジック</a>|###|条件報酬、条件ペナルティ|便利関数|3|
 |6|<a href="https://colab.research.google.com/drive/17EVg0h-yMPm_qYLw8XMsCwCydaSDqajx?usp=sharing" target="_blank">巡回セールスマン問題</a>|###|ワンホット、コスト|演習|4|
 |7|<a href="https://colab.research.google.com/drive/1ENTU11JxMPujaNx0MJ3gycamt8rZB3Xw?usp=sharing" target="_blank">クラスタリング</a>|###|ワンホット、コスト||4|
