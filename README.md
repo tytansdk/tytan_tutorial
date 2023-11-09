@@ -44,8 +44,7 @@ QUBOでできることは一通り学べたので、あとは問題を言い換�
 
 <br>
 
-## 実力テスト（Qubomaster認定試験問題）
-こちらも近々変更になる可能性あり
+## 「量子エンジニア（アニーリング式）」認定試験問題
 
 |No.|Title|難度|ジャンル|作問協力|
 |:--|:--|:--|:--|:--|
@@ -55,7 +54,7 @@ QUBOでできることは一通り学べたので、あとは問題を言い換�
 |4|<a href="https://colab.research.google.com/drive/1BLTWenIX0cjffwH9B6mpw-HRE24BkSNj?usp=sharing" target="_blank">ばねにはたらく力</a>|####|高校物理|derwind|
 |5|<a href="https://colab.research.google.com/drive/1R6O6pLiQkPyYKZK73Lokn4gHyEIX_XxM?usp=sharing" target="_blank">クリティカルパス問題</a>|#####|工程|derwind|
 
-Qubomaster認定試験に挑戦される方は、実力テストから任意の2問を解いて.ipynbまたは.pyをShoya Yasudaまでメール・DM等でご提出ください。
+「量子エンジニア（アニーリング式）」認定試験に挑戦される方は、上記から任意の2問を解いて.ipynbまたは.pyをShoya Yasudaまでメール・DM等でご提出ください。
 
 ▼注意事項<br>
 テキスト欄やコメントアウトにより最低限の説明や思考過程を含めてください<br>
@@ -84,7 +83,7 @@ QUBO条件式が妥当であること<br>
 <br>
 
 
-## 旧基礎一覧（コードの更新遅れています、読み物として）
+## 旧基礎一覧（コードの更新遅れています）
 <details>
 <summary>旧基礎一覧</summary><div>
 
