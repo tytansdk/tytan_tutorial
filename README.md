@@ -105,7 +105,7 @@ QUBO条件式が妥当であること<br>
 <br>
 
 ## 公認・推奨
-<a href="https://www.jqca.org/" target="_blank"><img src="https://github.com/tytansdk/tytan_tutorial/blob/main/img/logo_jqca.png" width="250"></a>
+<a href="https://www.jqca.org/" target="_blank"><img src="https://github.com/tytansdk/tytan_tutorial/blob/main/img/logo_jqca.png" width="350"></a>
 
 <br>
 
