@@ -3,7 +3,7 @@
 TYTANの基本的な使い方はこちら → [TYTANトップページ](https://github.com/tytansdk/tytan)<br>
 TYTANの本格的な使い方はこちら → [TYTANドキュメント](https://github.com/tytansdk/tytan/blob/main/document%20.md)<br>
 質問やご意見などコミュニティはこちら → [Discord「TYTAN」](https://discord.gg/qT5etstPW8)<br>
-勉強会（チュートリアル解説会）の予定・告知はこちら → [connpass「一般社団法人日本量子コンピューティング協会」](https://jqca2023.connpass.com/)
+勉強会の予定・告知はこちら → [connpass「一般社団法人日本量子コンピューティング協会」](https://jqca2023.connpass.com/)
 
 ★見逃した方はこちら★<br>
 オンデマンド配信はこちら！ → [再生リスト「アニーリングチュートリアル」](https://www.youtube.com/playlist?list=PLQOGM0zeI92QXFHSjuyTh2qogH2iee2Zi)
