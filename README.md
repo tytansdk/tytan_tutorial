@@ -16,6 +16,7 @@ TYTANの本格的な使い方はこちら → [TYTANドキュメント](https://
 
 |No.|Title|難度|学習内容|おまけ|実施日|
 |:--|:--|:--|:--|:--|:--|
+|0|<a href="https://docs.google.com/presentation/d/e/2PACX-1vQ23QymHrCp28LzDRYJrOUJDk42DZ26QmplAEEAy97MfrPVIedWFGdV_FFxMCdr14LCvqmZB2tFz3X6/pub?start=false&loop=false&delayms=3000" target="_blank">はじめに</a>||||1|
 |1|<a href="https://colab.research.google.com/drive/1cPM7qx-mTIqxHQztKHJuW3EaCHn5hegg?usp=sharing" target="_blank">最大カット問題</a>|#|制約の基礎||1|
 |2|<a href="https://colab.research.google.com/drive/1OkfbSQskWgyzKpbElqMEpd4ZhU9X05vv?usp=sharing" target="_blank">温度計パズル</a>|##|制約の基礎、降順|便利関数|2|
 |3|<a href="https://colab.research.google.com/drive/18pth1OMi2c9YO-hUC1sPxpjSKJoRnPIE?usp=sharing" target="_blank">数字を均等に2組に分ける</a>|#|方程式制約|イジング版|2|
