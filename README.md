@@ -18,7 +18,7 @@ TYTANパッケージの本格的な使い方 → [TYTANドキュメント](https
 |1|<a href="https://colab.research.google.com/drive/1Q39CJyYsUR3bbwWleLRgHdHUilgpO2KB?usp=sharing" target="_blank">No.1 最大カット問題</a>|制約の基礎||
 |2|<a href="https://colab.research.google.com/drive/1LQCLagQJDlnXdkmEHJtJ7vnndb3Pu-c6?usp=sharing" target="_blank">No.2 マインスイーパ</a>|制約の基礎|便利関数|
 |2|<a href="https://colab.research.google.com/drive/1fCw8PG2bx_lE6dpdTufCAcAsubX87lB2?usp=sharing" target="_blank">No.3 数字を均等に2組に分ける</a>|方程式制約|イジングモデル|
-|3|<a href="https://colab.research.google.com/drive/1FMtmu5ECrsHAEFZ761EtlyvbL-tAXEH8?usp=sharing" target="_blank">No.4 カクラス</a>|方程式制約||
+|3|<a href="https://colab.research.google.com/drive/1FMtmu5ECrsHAEFZ761EtlyvbL-tAXEH8?usp=sharing" target="_blank">No.4 カクラス</a>|方程式制約|演習|
 |3|coming soon|||
 |4|coming soon|||
 |4|coming soon|||
