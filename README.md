@@ -1,18 +1,77 @@
 ## 情報
 
-TYTANの基本的な使い方はこちら → [TYTANトップページ](https://github.com/tytansdk/tytan)<br>
-TYTANの本格的な使い方はこちら → [TYTANドキュメント](https://github.com/tytansdk/tytan/blob/main/document%20.md)<br>
-質問やご意見などコミュニティはこちら → [Discord「TYTAN」](https://discord.gg/qT5etstPW8)<br>
-勉強会の予定・告知はこちら → [connpass「一般社団法人日本量子コンピューティング協会」](https://jqca2023.connpass.com/)
-
-★見逃した方はこちら★<br>
-オンデマンド配信はこちら！ → [再生リスト「アニーリングチュートリアル」](https://www.youtube.com/playlist?list=PLQOGM0zeI92QXFHSjuyTh2qogH2iee2Zi)
+TYTANパッケージの基本的な使い方 → [TYTANトップページ](https://github.com/tytansdk/tytan)<br>
+TYTANパッケージの本格的な使い方 → [TYTANドキュメント](https://github.com/tytansdk/tytan/blob/main/document%20.md)<br>
+質問やご意見などはコミュニティへ → [Discord「TYTAN」](https://discord.gg/qT5etstPW8)<br>
+勉強会の予定・告知 → [connpass「一般社団法人日本量子コンピューティング協会」](https://jqca2023.connpass.com/)
+<br>
+勉強会のレコーディング → [再生リスト「アニーリングチュートリアル」](https://www.youtube.com/playlist?list=PLQOGM0zeI92QXFHSjuyTh2qogH2iee2Zi)
 
 <br>
 
-## おすすめコース
-はじめに<br>
-アニーリングとは？QUBOとは？年収は？調べてみた結果分かりませんでした。いかがでしたか？
+## 第3世代基礎コース（最新）
+2024年4月から運用されている教材です！
+
+|実施日|Title|学習内容|おまけ|
+|:--|:--|:--|:--|
+|1|<a href="https://docs.google.com/presentation/d/e/2PACX-1vQ23QymHrCp28LzDRYJrOUJDk42DZ26QmplAEEAy97MfrPVIedWFGdV_FFxMCdr14LCvqmZB2tFz3X6/pub?start=false&loop=false&delayms=3000" target="_blank">はじめに</a>|||
+|1|<a href="https://colab.research.google.com/drive/1Q39CJyYsUR3bbwWleLRgHdHUilgpO2KB?usp=sharing" target="_blank">No.1 最大カット問題</a>|制約の基礎||
+|2|<a href="https://colab.research.google.com/drive/1LQCLagQJDlnXdkmEHJtJ7vnndb3Pu-c6?usp=sharing" target="_blank">No.2 マインスイーパ</a>|制約の基礎|便利関数|
+|2|<a href="https://colab.research.google.com/drive/1fCw8PG2bx_lE6dpdTufCAcAsubX87lB2?usp=sharing" target="_blank">No.3 数字を均等に2組に分ける</a>|方程式制約|イジングモデル|
+|3|<a href="https://colab.research.google.com/drive/1FMtmu5ECrsHAEFZ761EtlyvbL-tAXEH8?usp=sharing" target="_blank">No.4 カクラス</a>|方程式制約||
+|3|coming soon|||
+|4|coming soon|||
+|4|coming soon|||
+|5|coming soon|||
+
+ここまででQUBOでできる基本的なことは一通り学べたので、あとは問題を言い換えて知っているテクニックに落とし込めるかの勝負だ。
+
+<br>
+
+## 「量子エンジニア（アニーリング式）」認定試験問題
+
+基礎コース修了レベルを対象とした、日本量子コンピューティング協会公認の認定試験です。
+
+|形式|Title|合格基準|
+|:--|:--|:--|
+|選択肢・記述|<a href="https://colab.research.google.com/drive/1EVn6p07Nn90YbKQCa5fU7kdRvEfblEj9?usp=sharing" target="_blank">問題 A</a>|ほぼ完答|
+|コーディング|<a href="https://colab.research.google.com/drive/1gz4QDIRqLNmYE0YaAk1GikjC96txmRli?usp=sharing" target="_blank">問題 B-1</a>|ほぼ完答|
+|コーディング|<a href="https://colab.research.google.com/drive/1sxvE-a1n5F-_wKUhZXqGKvNf_Pb5jI-C?usp=sharing" target="_blank">問題 B-1</a>|ほぼ完答|
+
+「量子エンジニア（アニーリング式）」認定試験に挑戦される方は、上記の3問を解いてShoya Yasudaまでご提出ください。提出方法や注意事項はファイル内に書かれています。
+
+提出・問い合わせ先<br>
+・[Discord（TYTAN）](https://discord.gg/qT5etstPW8) -> Shoya YasudaへDM（※公開チャンネルに投稿しないようご注意ください）<br>
+・[Slack（AI FASHION）](https://join.slack.com/t/ai-fashion/shared_invite/zt-5ew03uzn-Sh0fho5wQMUTUC2IE01gPg) -> Shoya YasudaへDM<br>
+・yasudaあっとvigne-cla.com
+
+<br>
+
+## 第3世代発展コース
+準備中です。
+
+|実施日|Title|学習内容|おまけ|
+|:--|:--|:--|:--|
+|1|ドミノサ|||
+|1|クラスタリング|||
+|2|連立方程式|||
+|2|線形回帰|||
+|3|ナップサック問題|||
+
+<br>
+
+## 解き方募集中
+<a href="https://colab.research.google.com/drive/19dKlsKyQMjvdRyCg1hwCAg_WbRlS3dJV?usp=drive_link" target="_blank">2023年7月4日更新</a>
+
+
+<br>
+
+
+## 第2世代基礎コースと認定試験問題
+<details>
+<summary>開く</summary><div>
+
+2024年3月まで運用されていた教材です。
 
 |No.|Title|難度|学習内容|おまけ|実施日|
 |:--|:--|:--|:--|:--|:--|
@@ -27,25 +86,9 @@ TYTANの本格的な使い方はこちら → [TYTANドキュメント](https://
 |8|<a href="https://colab.research.google.com/drive/1Tdi6jJUtgStU4ip6F0t0NUXxn7urPH8d?usp=sharing" target="_blank">連立方程式を解く</a>|###|2進数（N-bit）表現|便利関数|5|
 |9|<a href="https://colab.research.google.com/drive/1Zt9FFF48S0tYRgpoiTOaLxiaHpWjTgLg?usp=sharing" target="_blank">線形回帰</a>|###|2進数（N-bit）表現|便利関数|5|
 |10|<a href="https://colab.research.google.com/drive/128pWGsIQc5SZRZAwL-2cOlaWu5IbBZwT?usp=sharing" target="_blank">ナップサック問題</a>|####|コスト、補助変数と不等式制約||6|
+</div>
 
-さいごに<br>
-QUBOでできることは一通り学べたので、あとは問題を言い換えて知っているテクニックに落とし込めるかの勝負。ページ下部の「旧基礎一覧」にはおすすめコースで扱わなかった有名問題もあるため一通り読んでおくと良い（ただしコードが少し古いためエラーが出る可能性がある、有志による修正を祈る）。
-
-<br>
-
-## ステップアップ演習コース
-準備中です。おすすめコースから実力テストまでの間を埋めるための特訓コースをイメージ。
-
-|No.|Title|難度|項目|ステップアップ内容|
-|:--|:--|:--|:--|:--|
-|1|橋をかけろ|#|制約の基礎|複数の解法|
-|2|ドミノサ|##|制約の基礎|量子ビットの置き方|
-|3|カクラス|##|方程式制約|配列の扱い（便利関数）|
-|4|不等号ナンプレ|###|ワンホット、条件付きコスト|配列の扱い（便利関数）|
-
-<br>
-
-## 「量子エンジニア（アニーリング式）」認定試験問題
+「量子エンジニア（アニーリング式）」認定試験問題
 
 |No.|Title|難度|ジャンル|作問協力|
 |:--|:--|:--|:--|:--|
@@ -75,18 +118,16 @@ QUBO条件式が妥当であること<br>
 ・SlackのDM<br>
 ・yasudaあっとvigne-cla.com
 
-<br>
-
-## 解き方募集中
-<a href="https://colab.research.google.com/drive/19dKlsKyQMjvdRyCg1hwCAg_WbRlS3dJV?usp=drive_link" target="_blank">2023年7月4日更新</a>
-
+</details>
 
 <br>
 
 
-## 旧基礎一覧（コードの更新遅れています）
+## 初代基礎コース
 <details>
-<summary>旧基礎一覧</summary><div>
+<summary>開く</summary><div>
+
+TYTANパッケージ修正にともない、コードが動作しなくなった場合があります。
 
 |File|Title|実施日|
 |:--|:--|:--|
@@ -111,6 +152,6 @@ QUBO条件式が妥当であること<br>
 <br>
 
 ## 運営協力
-<a href="https://www.chodai.co.jp/" target="_blank"><img src="https://github.com/tytansdk/tytan_tutorial/blob/main/img/logo_chodai.png" width="150"></a><br>
-<a href="https://vigne-cla.com/" target="_blank"><img src="https://github.com/tytansdk/tytan_tutorial/blob/main/img/logo_vc_f_sk.png" width="150"></a>
+運営　<a href="https://www.chodai.co.jp/" target="_blank"><img src="https://github.com/tytansdk/tytan_tutorial/blob/main/img/logo_chodai.png" width="150"></a><br>
+教材作成・採点　<a href="https://vigne-cla.com/" target="_blank"><img src="https://github.com/tytansdk/tytan_tutorial/blob/main/img/logo_vc_f_sk.png" width="150"></a>
 
