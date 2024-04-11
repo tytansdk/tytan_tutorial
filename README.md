@@ -19,10 +19,10 @@ TYTANパッケージの本格的な使い方 → [TYTANドキュメント](https
 |2|<a href="https://colab.research.google.com/drive/1LQCLagQJDlnXdkmEHJtJ7vnndb3Pu-c6?usp=sharing" target="_blank">No.2 マインスイーパ</a>|制約の基礎||
 |2|<a href="https://colab.research.google.com/drive/1fCw8PG2bx_lE6dpdTufCAcAsubX87lB2?usp=sharing" target="_blank">No.3 数字を2組に分ける</a>|方程式制約|イジングモデル|
 |3|<a href="https://colab.research.google.com/drive/1FMtmu5ECrsHAEFZ761EtlyvbL-tAXEH8?usp=sharing" target="_blank">No.4 カクラス</a>|方程式制約|演習|
-|3|coming soon|||
-|4|coming soon|||
-|4|coming soon|||
-|5|coming soon|||
+|3|No.5 席へどうぞ|||
+|4|No.6 お絵かきロジック|||
+|4|No.7 Nルーク|||
+|5|No.8 巡回セールスマン問題|||
 
 ここまででQUBOでできる基本的なことは一通り学べたので、あとは問題を言い換えて知っているテクニックに落とし込めるかの勝負だ。
 
