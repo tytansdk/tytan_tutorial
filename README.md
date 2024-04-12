@@ -19,8 +19,8 @@ TYTANパッケージの本格的な使い方 → [TYTANドキュメント](https
 |2|<a href="https://colab.research.google.com/drive/1LQCLagQJDlnXdkmEHJtJ7vnndb3Pu-c6?usp=sharing" target="_blank">No.2 マインスイーパ</a>|制約の基礎||
 |2|<a href="https://colab.research.google.com/drive/1fCw8PG2bx_lE6dpdTufCAcAsubX87lB2?usp=sharing" target="_blank">No.3 数字を2組に分ける</a>|方程式制約|イジングモデル|
 |3|<a href="https://colab.research.google.com/drive/1FMtmu5ECrsHAEFZ761EtlyvbL-tAXEH8?usp=sharing" target="_blank">No.4 カクラス</a>|方程式制約|演習|
-|3|No.5 席へどうぞ|||
-|4|No.6 お絵かきロジック|||
+|3|<a href="https://colab.research.google.com/drive/1gmDonpXUzayC0TNlBGPHmLOgjTV0Azqd?usp=sharing" target="_blank">No.5 お席へどうぞ</a>|||
+|4|<a href="https://colab.research.google.com/drive/1_7XNQyizZHB3NQnNWzOad8E9qpnOvBAs?usp=sharing" target="_blank">No.6 お絵かきロジック</a>|||
 |4|No.7 Nルーク|||
 |5|No.8 巡回セールスマン問題|||
 
