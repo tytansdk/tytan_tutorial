@@ -21,7 +21,7 @@ TYTANパッケージの本格的な使い方 → [TYTANドキュメント](https
 |3|<a href="https://colab.research.google.com/drive/1FMtmu5ECrsHAEFZ761EtlyvbL-tAXEH8?usp=sharing" target="_blank">No.4 カクラス</a>|方程式制約|演習|
 |3|<a href="https://colab.research.google.com/drive/1gmDonpXUzayC0TNlBGPHmLOgjTV0Azqd?usp=sharing" target="_blank">No.5 お席へどうぞ</a>|臨時報酬/ペナルティ、強弱||
 |4|<a href="https://colab.research.google.com/drive/1_7XNQyizZHB3NQnNWzOad8E9qpnOvBAs?usp=sharing" target="_blank">No.6 お絵かきロジック</a>|臨時報酬/ペナルティ、強弱|演習|
-|4|No.7 Nルーク|||
+|4|No.7 経路分散|||
 |5|No.8 巡回セールスマン問題|||
 
 ここまででQUBOでできる基本的なことは一通り学べたので、あとは問題を言い換えて知っているテクニックに落とし込めるかの勝負だ。
