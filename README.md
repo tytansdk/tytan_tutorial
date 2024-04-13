@@ -21,8 +21,8 @@ TYTANパッケージの本格的な使い方 → [TYTANドキュメント](https
 |3|<a href="https://colab.research.google.com/drive/1FMtmu5ECrsHAEFZ761EtlyvbL-tAXEH8?usp=sharing" target="_blank">No.4 カクラス</a>|方程式制約|演習|
 |3|<a href="https://colab.research.google.com/drive/1gmDonpXUzayC0TNlBGPHmLOgjTV0Azqd?usp=sharing" target="_blank">No.5 お席へどうぞ</a>|臨時報酬/ペナルティ、強弱||
 |4|<a href="https://colab.research.google.com/drive/1_7XNQyizZHB3NQnNWzOad8E9qpnOvBAs?usp=sharing" target="_blank">No.6 お絵かきロジック</a>|臨時報酬/ペナルティ、強弱|演習|
-|4|No.7 経路分散|||
-|5|No.8 巡回セールスマン問題|||
+|4|<a href="https://colab.research.google.com/drive/19oGWarjx9PFE8SVle9wJky66I2cQejUq?usp=sharing" target="_blank">No.7 経路分散</a>|One-hotエンコーディング、コスト||
+|5|<a href="https://colab.research.google.com/drive/12ALc6AnvzD6WQfP-gb_mJwfZQb-nLxrv?usp=sharing" target="_blank">No.8 巡回セールスマン問題</a>|One-hotエンコーディング、コスト|演習|
 
 ここまででQUBOでできる基本的なことは一通り学べたので、あとは問題を言い換えて知っているテクニックに落とし込めるかの勝負だ。
 
@@ -38,7 +38,7 @@ TYTANパッケージの本格的な使い方 → [TYTANドキュメント](https
 |コーディング|<a href="https://colab.research.google.com/drive/1gz4QDIRqLNmYE0YaAk1GikjC96txmRli?usp=sharing" target="_blank">問題 B-1</a>|ほぼ完答|
 |コーディング|<a href="https://colab.research.google.com/drive/1sxvE-a1n5F-_wKUhZXqGKvNf_Pb5jI-C?usp=sharing" target="_blank">問題 B-2</a>|ほぼ完答|
 
-「量子エンジニア（アニーリング式）」認定試験に挑戦される方は、上記の3問を解いてShoya Yasudaまでご提出ください。提出方法や注意事項はファイル内に書かれています。
+「量子エンジニア（アニーリング式）」認定試験に挑戦される方は上記の3問を解いてShoya Yasudaまでご提出ください。事前の申し込みは不要です。提出方法や注意事項はファイル内に書かれています。
 
 提出・問い合わせ先<br>
 ・[Discord（TYTAN）](https://discord.gg/qT5etstPW8) -> Shoya YasudaへDM（※公開チャンネルに投稿しないようご注意ください）<br>
