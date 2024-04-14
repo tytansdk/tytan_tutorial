@@ -5,7 +5,7 @@ TYTANパッケージの本格的な使い方 → [TYTANドキュメント](https
 質問やご意見などはコミュニティへ → [Discord「TYTAN」](https://discord.gg/qT5etstPW8)<br>
 勉強会の予定・告知 → [connpass「一般社団法人日本量子コンピューティング協会」](https://jqca2023.connpass.com/)
 <br>
-勉強会のレコーディング → [再生リスト「アニーリングチュートリアル」](https://www.youtube.com/playlist?list=PLQOGM0zeI92QXFHSjuyTh2qogH2iee2Zi)
+勉強会のレコーディング → [再生リスト「アニーリングチュートリアル」※第2世代教材の内容なので注意](https://www.youtube.com/playlist?list=PLQOGM0zeI92QXFHSjuyTh2qogH2iee2Zi)
 
 <br>
 
