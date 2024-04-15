@@ -32,6 +32,8 @@ TYTANパッケージの本格的な使い方 → [TYTANドキュメント](https
 
 基礎コース修了レベルを対象とした、日本量子コンピューティング協会公認の認定試験です。
 
+**受験から認定まで無料ですが、正式な資格認定証（紙・デジタル）の発行申し込みには手数料（9,800円）がかかります。正式な認定証を要する場合はあらかじめご了承ください。**
+
 |形式|Title|合格基準|
 |:--|:--|:--|
 |選択肢・記述|<a href="https://colab.research.google.com/drive/1EVn6p07Nn90YbKQCa5fU7kdRvEfblEj9?usp=sharing" target="_blank">問題 A</a>|ほぼ完答|
