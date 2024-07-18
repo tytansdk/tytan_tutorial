@@ -47,6 +47,8 @@ TYTANパッケージの本格的な使い方 → [TYTANドキュメント](https
 ・[Slack（AI FASHION）](https://join.slack.com/t/ai-fashion/shared_invite/zt-5ew03uzn-Sh0fho5wQMUTUC2IE01gPg) -> Shoya YasudaへDM<br>
 ・yasudaあっとvigne-cla.com
 
+**※3日以内に受領の返事がない場合は、別ルートで「届きましたか？」の連絡をください！（公開チャンネルでも構いません！）**
+
 <br>
 
 ## 第3世代発展コース
