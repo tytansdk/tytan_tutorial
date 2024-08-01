@@ -24,8 +24,12 @@ TYTANパッケージの本格的な使い方 → [TYTANドキュメント](https
 
 <br>
 
-## 第3世代基礎コース
-2024年4月から運用されている教材です！
+
+## 第3世代基礎コースと認定試験問題
+<details>
+<summary>開く</summary><div>
+
+2024年4月～7月まで運用されていた教材です。
 
 |実施日|Title|学習内容|おまけ|
 |:--|:--|:--|:--|
@@ -82,6 +86,7 @@ TYTANパッケージの本格的な使い方 → [TYTANドキュメント](https
 ## 解き方募集中
 <a href="https://colab.research.google.com/drive/19dKlsKyQMjvdRyCg1hwCAg_WbRlS3dJV?usp=drive_link" target="_blank">2023年7月4日更新</a>
 
+</details>
 
 <br>
 
