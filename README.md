@@ -19,6 +19,7 @@ TYTANパッケージの本格的な使い方 → [TYTANドキュメント](https
 ※ 第3回講座受講日から1週間の期間で「認定試験」の受験が可能です。<br>
 ※「教材」は事前学習用に一部公開しています。完全版の「教材」は<a href="https://jqca2023.connpass.com" target="_blank">講座</a>にてご確認いただけます。<br>
 ※ 講座受講後に「<a href="https://forms.gle/v6D7vN6LKDX1GgeGA" target="_blank">アンケート</a>」にご協力頂けますと幸いです。<br>
+※ 参考図書 (T.B.D)<br>
 
 ## 量子エンジニア講座（アニーリング）アドバンスコース (T.B.D)
 
