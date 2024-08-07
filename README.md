@@ -13,8 +13,8 @@ TYTANパッケージの本格的な使い方 → [TYTANドキュメント](https
 
 |第1回|第2回|第3回|
 |:--|:--|:--|
-|<a href="https://x.gd/PclqS" target="_blank">教材</a>（事前学習用）|教材（事前学習用）|教材（事前学習用）|
-|<a href="https://x.gd/gjXnQ" target="_blank">演習問題①</a>|<a href="https://x.gd/rlMko" target="_blank">演習問題②</a><br>演習問題③|演習問題④<br>演習問題⑤|
+|<a href="https://x.gd/PclqS" target="_blank">教材</a>（事前学習用）|<a href="https://x.gd/ApVOv" target="_blank">教材</a>（事前学習用）|教材（事前学習用）|
+|<a href="https://x.gd/gjXnQ" target="_blank">演習問題①</a>|<a href="https://x.gd/rlMko" target="_blank">演習問題②</a><br><a href="https://x.gd/j9eC9" target="_blank">演習問題③</a>|演習問題④<br>演習問題⑤|
 
 ※ 第3回講座受講日から1週間の期間で「認定試験」の受験が可能です。<br>
 ※「教材」は事前学習用に一部公開しています。完全版の「教材」は<a href="https://jqca2023.connpass.com" target="_blank">講座</a>にてご確認いただけます。<br>
