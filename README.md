@@ -55,9 +55,9 @@ TYTANパッケージの本格的な使い方 → [TYTANドキュメント](https
 
 |形式|Title|合格基準|
 |:--|:--|:--|
-|選択肢・記述|<a href="https://colab.research.google.com/drive/1EVn6p07Nn90YbKQCa5fU7kdRvEfblEj9?usp=sharing" target="_blank">問題 A</a>|ほぼ完答|
-|コーディング|<a href="https://colab.research.google.com/drive/1gz4QDIRqLNmYE0YaAk1GikjC96txmRli?usp=sharing" target="_blank">問題 B-1</a>|ほぼ完答|
-|コーディング|<a href="https://colab.research.google.com/drive/1sxvE-a1n5F-_wKUhZXqGKvNf_Pb5jI-C?usp=sharing" target="_blank">問題 B-2</a>|ほぼ完答|
+|選択肢・記述|<a href="https://colab.research.google.com/drive/1EVn6p07Nn90YbKQCa5fU7kdRvEfblEj9?usp=sharing" target="_blank">問題 A（※受付を終了しました）</a>|ほぼ完答|
+|コーディング|<a href="https://colab.research.google.com/drive/1gz4QDIRqLNmYE0YaAk1GikjC96txmRli?usp=sharing" target="_blank">問題 B-1（※受付を終了しました）</a>|ほぼ完答|
+|コーディング|<a href="https://colab.research.google.com/drive/1sxvE-a1n5F-_wKUhZXqGKvNf_Pb5jI-C?usp=sharing" target="_blank">問題 B-2（※受付を終了しました）</a>|ほぼ完答|
 
 「量子エンジニア（アニーリング式）」認定試験に挑戦される方は上記の3問を解いてShoya Yasudaまでご提出ください。事前の申し込みは不要です。提出方法や注意事項はファイル内に書かれています。
 
