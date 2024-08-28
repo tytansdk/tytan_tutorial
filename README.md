@@ -24,7 +24,7 @@ TYTANパッケージの本格的な使い方 → [TYTANドキュメント](https
 
 |第1回|第2回|第3回|
 |:--|:--|:--|
-|<a href="https://x.gd/PmXdq" target="_blank">教材</a>（事前学習用）|教材（事前学習用）|教材（事前学習用）|
+|<a href="https://x.gd/PmXdq" target="_blank">教材</a>（事前学習用）|<a href="https://x.gd/48EZa" target="_blank">教材</a>（事前学習用）|教材（事前学習用）|
 |<a href="https://x.gd/4nvQK" target="_blank">演習問題①</a>|演習問題②<br>演習問題③|演習問題④|
 
 ※ 第3回講座受講日から10日間程度の期間で「認定試験」の受験が可能です。<br>
