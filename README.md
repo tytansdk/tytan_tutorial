@@ -16,7 +16,7 @@ TYTANパッケージの本格的な使い方 → [TYTANドキュメント](https
 |<a href="https://x.gd/PclqS" target="_blank">教材</a>（事前学習用）|<a href="https://x.gd/ApVOv" target="_blank">教材</a>（事前学習用）|<a href="https://x.gd/P9Bj2" target="_blank">教材</a>（事前学習用）|
 |<a href="https://x.gd/gjXnQ" target="_blank">演習問題①</a>|<a href="https://x.gd/rlMko" target="_blank">演習問題②</a><br><a href="https://x.gd/j9eC9" target="_blank">演習問題③</a>|<a href="https://x.gd/4YaRV" target="_blank">演習問題④</a><br><a href="https://x.gd/mZAGY" target="_blank">演習問題⑤</a>|
 
-※ 第3回講座受講日から10日間程度の期間で「認定試験」の受験が可能です。<br>
+※ 「認定試験」については<a href="https://qai-zen.com" target="_blank">QAI-Zen</a>や<a href="https://www.jqca.org" target="_blank">一般社団法人日本量子コンピューティング協会</a>のサイトでご確認ください。<br>
 ※「教材」は事前学習用に一部公開しています。完全版の「教材」は<a href="https://jqca2023.connpass.com" target="_blank">講座</a>にてご確認いただけます。<br>
 ※ 講座受講後に「<a href="https://forms.gle/v6D7vN6LKDX1GgeGA" target="_blank">アンケート</a>」にご協力頂けますと幸いです。<br><br>
 
@@ -27,7 +27,7 @@ TYTANパッケージの本格的な使い方 → [TYTANドキュメント](https
 |<a href="https://x.gd/PmXdq" target="_blank">教材</a>（事前学習用）|<a href="https://x.gd/48EZa" target="_blank">教材</a>（事前学習用）|<a href="https://x.gd/wugMg" target="_blank">教材</a>（事前学習用）|
 |<a href="https://x.gd/4nvQK" target="_blank">演習問題①</a>|<a href="https://x.gd/txJfC" target="_blank">演習問題②</a><br><a href="https://x.gd/zF9DA" target="_blank">演習問題③</a>|<a href="https://x.gd/tTtmi" target="_blank">演習問題④</a>|
 
-※ 第3回講座受講日から10日間程度の期間で「認定試験」の受験が可能です。<br>
+※ 「認定試験」については<a href="https://qai-zen.com" target="_blank">QAI-Zen</a>や<a href="https://www.jqca.org" target="_blank">一般社団法人日本量子コンピューティング協会</a>のサイトでご確認ください。<br>
 ※「教材」は事前学習用に一部公開しています。完全版の「教材」は<a href="https://jqca2023.connpass.com" target="_blank">講座</a>にてご確認いただけます。<br>
 ※ 講座受講後に「<a href="https://forms.gle/v6D7vN6LKDX1GgeGA" target="_blank">アンケート</a>」にご協力頂けますと幸いです。<br><br>
 
